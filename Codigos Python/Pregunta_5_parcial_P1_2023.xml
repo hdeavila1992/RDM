@@ -1,0 +1,1153 @@
+<?xml version="1.0" ?>
+<quiz>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de Esfuerzo y fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las barras AB y BC tienen diámetros de 2 mm y 
+        3 mm, respectivamente. Si la fuerza de 3 kN se aplica al
+        anillo en B, determine el ángulo Theta tal que el esfuerzo normal promedio en cada barra sea equivalente. ¿Cuál es este 
+        esfuerzo? 
+
+        &lt;img src=&quot;https://i.ibb.co/5nq4hv5/IMG5.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>30.6506679570529 grados y 608531778.124383Pa</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>61.3013359141059 grados y 1217063556.24877Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>65.6414704968246 grados y 65.6414704968246Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>30650.6679570529 grados y  30650.6679570529Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>3.06506679570529e-8 grados y 3.06506679570529e-8Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de Esfuerzo y fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las barras AB y BC tienen diámetros de 2 mm y 
+        4 mm, respectivamente. Si la fuerza de 3 kN se aplica al
+        anillo en B, determine el ángulo Theta tal que el esfuerzo normal promedio en cada barra sea equivalente. ¿Cuál es este 
+        esfuerzo? 
+
+        &lt;img src=&quot;https://i.ibb.co/5nq4hv5/IMG5.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>42.5104470780009 grados y 293304313.084010Pa</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>85.0208941560017 grados y 586608626.168020Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>91.0403734622466 grados y 91.0403734622466Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>42510.4470780008 grados y  42510.4470780008Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>4.25104470780009e-8 grados y 4.25104470780009e-8Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de Esfuerzo y fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las barras AB y BC tienen diámetros de 2 mm y 
+        5 mm, respectivamente. Si la fuerza de 3 kN se aplica al
+        anillo en B, determine el ángulo Theta tal que el esfuerzo normal promedio en cada barra sea equivalente. ¿Cuál es este 
+        esfuerzo? 
+
+        &lt;img src=&quot;https://i.ibb.co/5nq4hv5/IMG5.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>46.8476102659946 grados y 174164178.312503Pa</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>93.6952205319892 grados y 348328356.625007Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>100.328842145654 grados y 100.328842145654Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>46847.6102659946 grados y  46847.6102659946Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>4.68476102659946e-8 grados y 4.68476102659946e-8Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de Esfuerzo y fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las barras AB y BC tienen diámetros de 2 mm y 
+        6 mm, respectivamente. Si la fuerza de 3 kN se aplica al
+        anillo en B, determine el ángulo Theta tal que el esfuerzo normal promedio en cada barra sea equivalente. ¿Cuál es este 
+        esfuerzo? 
+
+        &lt;img src=&quot;https://i.ibb.co/5nq4hv5/IMG5.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>48.9451862290376 grados y 116144335.625739Pa</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>97.8903724580751 grados y 232288671.251479Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>104.821010828107 grados y 104.821010828107Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>48945.1862290376 grados y  48945.1862290376Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>4.89451862290376e-8 grados y 4.89451862290376e-8Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de Esfuerzo y fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las barras AB y BC tienen diámetros de 2 mm y 
+        7 mm, respectivamente. Si la fuerza de 3 kN se aplica al
+        anillo en B, determine el ángulo Theta tal que el esfuerzo normal promedio en cada barra sea equivalente. ¿Cuál es este 
+        esfuerzo? 
+
+        &lt;img src=&quot;https://i.ibb.co/5nq4hv5/IMG5.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>50.1304470476600 grados y 83285699.6759516Pa</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>100.260894095320 grados y 166571399.351903Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>107.359365397269 grados y 107.359365397269Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>50130.4470476600 grados y  50130.4470476600Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>5.01304470476600e-8 grados y 5.01304470476600e-8Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de Esfuerzo y fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las barras AB y BC tienen diámetros de 3 mm y 
+        3 mm, respectivamente. Si la fuerza de 3 kN se aplica al
+        anillo en B, determine el ángulo Theta tal que el esfuerzo normal promedio en cada barra sea equivalente. ¿Cuál es este 
+        esfuerzo? 
+
+        &lt;img src=&quot;https://i.ibb.co/5nq4hv5/IMG5.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>-18.4349488229220 grados y 671056161.393160Pa</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-36.8698976458440 grados y 1342112322.78632Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-39.4802863991698 grados y -39.4802863991698Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-18434.9488229220 grados y  -18434.9488229220Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-1.84349488229220e-8 grados y -1.84349488229220e-8Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de Esfuerzo y fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las barras AB y BC tienen diámetros de 3 mm y 
+        4 mm, respectivamente. Si la fuerza de 3 kN se aplica al
+        anillo en B, determine el ángulo Theta tal que el esfuerzo normal promedio en cada barra sea equivalente. ¿Cuál es este 
+        esfuerzo? 
+
+        &lt;img src=&quot;https://i.ibb.co/5nq4hv5/IMG5.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>21.5953104489676 grados y 369958296.474566Pa</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>43.1906208979352 grados y 739916592.949131Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>46.2485168575090 grados y 46.2485168575090Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>21595.3104489676 grados y  21595.3104489676Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>2.15953104489676e-8 grados y 2.15953104489676e-8Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de Esfuerzo y fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las barras AB y BC tienen diámetros de 3 mm y 
+        5 mm, respectivamente. Si la fuerza de 3 kN se aplica al
+        anillo en B, determine el ángulo Theta tal que el esfuerzo normal promedio en cada barra sea equivalente. ¿Cuál es este 
+        esfuerzo? 
+
+        &lt;img src=&quot;https://i.ibb.co/5nq4hv5/IMG5.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>36.2538377374448 grados y 205349345.959096Pa</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>72.5076754748895 grados y 410698691.918192Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>77.6412188985117 grados y 77.6412188985117Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>36253.8377374448 grados y  36253.8377374448Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>3.62538377374448e-8 grados y 3.62538377374448e-8Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de Esfuerzo y fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las barras AB y BC tienen diámetros de 3 mm y 
+        6 mm, respectivamente. Si la fuerza de 3 kN se aplica al
+        anillo en B, determine el ángulo Theta tal que el esfuerzo normal promedio en cada barra sea equivalente. ¿Cuál es este 
+        esfuerzo? 
+
+        &lt;img src=&quot;https://i.ibb.co/5nq4hv5/IMG5.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>42.5104470780008 grados y 130357472.481782Pa</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>85.0208941560016 grados y 260714944.963565Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>91.0403734622466 grados y 91.0403734622466Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>42510.4470780008 grados y  42510.4470780008Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>4.25104470780008e-8 grados y 4.25104470780008e-8Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de Esfuerzo y fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las barras AB y BC tienen diámetros de 3 mm y 
+        7 mm, respectivamente. Si la fuerza de 3 kN se aplica al
+        anillo en B, determine el ángulo Theta tal que el esfuerzo normal promedio en cada barra sea equivalente. ¿Cuál es este 
+        esfuerzo? 
+
+        &lt;img src=&quot;https://i.ibb.co/5nq4hv5/IMG5.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>45.7690246825780 grados y 90627706.8312699Pa</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>91.5380493651561 grados y 181255413.662540Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>98.0189432602091 grados y 98.0189432602091Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>45769.0246825780 grados y  45769.0246825780Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>4.57690246825781e-8 grados y 4.57690246825781e-8Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de Esfuerzo y fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las barras AB y BC tienen diámetros de 4 mm y 
+        3 mm, respectivamente. Si la fuerza de 3 kN se aplica al
+        anillo en B, determine el ángulo Theta tal que el esfuerzo normal promedio en cada barra sea equivalente. ¿Cuál es este 
+        esfuerzo? 
+
+        &lt;img src=&quot;https://i.ibb.co/5nq4hv5/IMG5.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>-58.4652080948116 grados y 369958296.474566Pa</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-116.930416189623 grados y 739916592.949133Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-125.209089655849 grados y -125.209089655849Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-58465.2080948116 grados y  -58465.2080948116Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-5.84652080948116e-8 grados y -5.84652080948116e-8Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de Esfuerzo y fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las barras AB y BC tienen diámetros de 4 mm y 
+        4 mm, respectivamente. Si la fuerza de 3 kN se aplica al
+        anillo en B, determine el ángulo Theta tal que el esfuerzo normal promedio en cada barra sea equivalente. ¿Cuál es este 
+        esfuerzo? 
+
+        &lt;img src=&quot;https://i.ibb.co/5nq4hv5/IMG5.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>-18.4349488229220 grados y 377469090.783653Pa</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-36.8698976458440 grados y 754938181.567306Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-39.4802863991698 grados y -39.4802863991698Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-18434.9488229220 grados y  -18434.9488229220Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-1.84349488229220e-8 grados y -1.84349488229220e-8Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de Esfuerzo y fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las barras AB y BC tienen diámetros de 4 mm y 
+        5 mm, respectivamente. Si la fuerza de 3 kN se aplica al
+        anillo en B, determine el ángulo Theta tal que el esfuerzo normal promedio en cada barra sea equivalente. ¿Cuál es este 
+        esfuerzo? 
+
+        &lt;img src=&quot;https://i.ibb.co/5nq4hv5/IMG5.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>14.9314171781376 grados y 246049706.921020Pa</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>29.8628343562752 grados y 492099413.842039Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>31.9771230286994 grados y 31.9771230286994Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>14931.4171781376 grados y  14931.4171781376Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>1.49314171781376e-8 grados y 1.49314171781376e-8Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de Esfuerzo y fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las barras AB y BC tienen diámetros de 4 mm y 
+        6 mm, respectivamente. Si la fuerza de 3 kN se aplica al
+        anillo en B, determine el ángulo Theta tal que el esfuerzo normal promedio en cada barra sea equivalente. ¿Cuál es este 
+        esfuerzo? 
+
+        &lt;img src=&quot;https://i.ibb.co/5nq4hv5/IMG5.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>30.6506679570529 grados y 152132944.531096Pa</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>61.3013359141058 grados y 304265889.062192Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>65.6414704968245 grados y 65.6414704968245Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>30650.6679570529 grados y  30650.6679570529Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>3.06506679570529e-8 grados y 3.06506679570529e-8Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de Esfuerzo y fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las barras AB y BC tienen diámetros de 4 mm y 
+        7 mm, respectivamente. Si la fuerza de 3 kN se aplica al
+        anillo en B, determine el ángulo Theta tal que el esfuerzo normal promedio en cada barra sea equivalente. ¿Cuál es este 
+        esfuerzo? 
+
+        &lt;img src=&quot;https://i.ibb.co/5nq4hv5/IMG5.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>38.2775234881655 grados y 101991612.026588Pa</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>76.5550469763311 grados y 203983224.053175Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>81.9751443022553 grados y 81.9751443022553Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>38277.5234881655 grados y  38277.5234881655Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>3.82775234881655e-8 grados y 3.82775234881655e-8Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de Esfuerzo y fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las barras AB y BC tienen diámetros de 5 mm y 
+        3 mm, respectivamente. Si la fuerza de 3 kN se aplica al
+        anillo en B, determine el ángulo Theta tal que el esfuerzo normal promedio en cada barra sea equivalente. ¿Cuál es este 
+        esfuerzo? 
+
+        &lt;img src=&quot;https://i.ibb.co/5nq4hv5/IMG5.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>-73.1237353832888 grados y 205349345.959096Pa</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-146.247470766578 grados y 410698691.918192Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-156.601791696851 grados y -156.601791696851Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-73123.7353832888 grados y  -73123.7353832888Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-7.31237353832888e-8 grados y -7.31237353832888e-8Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de Esfuerzo y fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las barras AB y BC tienen diámetros de 5 mm y 
+        4 mm, respectivamente. Si la fuerza de 3 kN se aplica al
+        anillo en B, determine el ángulo Theta tal que el esfuerzo normal promedio en cada barra sea equivalente. ¿Cuál es este 
+        esfuerzo? 
+
+        &lt;img src=&quot;https://i.ibb.co/5nq4hv5/IMG5.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>-51.8013148239816 grados y 246049706.921019Pa</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-103.602629647963 grados y 492099413.842039Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-110.937695827039 grados y -110.937695827039Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-51801.3148239816 grados y  -51801.3148239816Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-5.18013148239816e-8 grados y -5.18013148239816e-8Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de Esfuerzo y fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las barras AB y BC tienen diámetros de 5 mm y 
+        5 mm, respectivamente. Si la fuerza de 3 kN se aplica al
+        anillo en B, determine el ángulo Theta tal que el esfuerzo normal promedio en cada barra sea equivalente. ¿Cuál es este 
+        esfuerzo? 
+
+        &lt;img src=&quot;https://i.ibb.co/5nq4hv5/IMG5.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>-18.4349488229220 grados y 241580218.101538Pa</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-36.8698976458440 grados y 483160436.203076Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-39.4802863991698 grados y -39.4802863991698Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-18434.9488229220 grados y  -18434.9488229220Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-1.84349488229220e-8 grados y -1.84349488229220e-8Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de Esfuerzo y fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las barras AB y BC tienen diámetros de 5 mm y 
+        6 mm, respectivamente. Si la fuerza de 3 kN se aplica al
+        anillo en B, determine el ángulo Theta tal que el esfuerzo normal promedio en cada barra sea equivalente. ¿Cuál es este 
+        esfuerzo? 
+
+        &lt;img src=&quot;https://i.ibb.co/5nq4hv5/IMG5.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>9.97771262015056 grados y 174164178.312504Pa</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>19.9554252403011 grados y 348328356.625007Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>21.3682693473144 grados y 21.3682693473144Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>9977.71262015056 grados y  9977.71262015056Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>9.97771262015056e-9 grados y 9.97771262015056e-9Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de Esfuerzo y fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las barras AB y BC tienen diámetros de 5 mm y 
+        7 mm, respectivamente. Si la fuerza de 3 kN se aplica al
+        anillo en B, determine el ángulo Theta tal que el esfuerzo normal promedio en cada barra sea equivalente. ¿Cuál es este 
+        esfuerzo? 
+
+        &lt;img src=&quot;https://i.ibb.co/5nq4hv5/IMG5.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>25.7802265740862 grados y 116991085.613547Pa</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>51.5604531481723 grados y 233982171.227094Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>55.2109332310629 grados y 55.2109332310629Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>25780.2265740862 grados y  25780.2265740862Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>2.57802265740862e-8 grados y 2.57802265740862e-8Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de Esfuerzo y fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las barras AB y BC tienen diámetros de 6 mm y 
+        3 mm, respectivamente. Si la fuerza de 3 kN se aplica al
+        anillo en B, determine el ángulo Theta tal que el esfuerzo normal promedio en cada barra sea equivalente. ¿Cuál es este 
+        esfuerzo? 
+
+        &lt;img src=&quot;https://i.ibb.co/5nq4hv5/IMG5.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>-79.3803447238449 grados y 130357472.481782Pa</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-158.760689447690 grados y 260714944.963565Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-170.000946260586 grados y -170.000946260586Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-79380.3447238449 grados y  -79380.3447238449Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-7.93803447238449e-8 grados y -7.93803447238449e-8Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de Esfuerzo y fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las barras AB y BC tienen diámetros de 6 mm y 
+        4 mm, respectivamente. Si la fuerza de 3 kN se aplica al
+        anillo en B, determine el ángulo Theta tal que el esfuerzo normal promedio en cada barra sea equivalente. ¿Cuál es este 
+        esfuerzo? 
+
+        &lt;img src=&quot;https://i.ibb.co/5nq4hv5/IMG5.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>-67.5205656028969 grados y 152132944.531096Pa</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-135.041131205794 grados y 304265889.062192Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-144.602043295164 grados y -144.602043295164Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-67520.5656028969 grados y  -67520.5656028969Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-6.75205656028969e-8 grados y -6.75205656028969e-8Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de Esfuerzo y fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las barras AB y BC tienen diámetros de 6 mm y 
+        5 mm, respectivamente. Si la fuerza de 3 kN se aplica al
+        anillo en B, determine el ángulo Theta tal que el esfuerzo normal promedio en cada barra sea equivalente. ¿Cuál es este 
+        esfuerzo? 
+
+        &lt;img src=&quot;https://i.ibb.co/5nq4hv5/IMG5.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>-46.8476102659946 grados y 174164178.312504Pa</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-93.6952205319892 grados y 348328356.625007Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-100.328842145654 grados y -100.328842145654Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-46847.6102659946 grados y  -46847.6102659946Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-4.68476102659946e-8 grados y -4.68476102659946e-8Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de Esfuerzo y fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las barras AB y BC tienen diámetros de 6 mm y 
+        6 mm, respectivamente. Si la fuerza de 3 kN se aplica al
+        anillo en B, determine el ángulo Theta tal que el esfuerzo normal promedio en cada barra sea equivalente. ¿Cuál es este 
+        esfuerzo? 
+
+        &lt;img src=&quot;https://i.ibb.co/5nq4hv5/IMG5.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>-18.4349488229220 grados y 167764040.348290Pa</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-36.8698976458440 grados y 335528080.696580Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-39.4802863991698 grados y -39.4802863991698Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-18434.9488229220 grados y  -18434.9488229220Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>-1.84349488229220e-8 grados y -1.84349488229220e-8Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de Esfuerzo y fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las barras AB y BC tienen diámetros de 6 mm y 
+        7 mm, respectivamente. Si la fuerza de 3 kN se aplica al
+        anillo en B, determine el ángulo Theta tal que el esfuerzo normal promedio en cada barra sea equivalente. ¿Cuál es este 
+        esfuerzo? 
+
+        &lt;img src=&quot;https://i.ibb.co/5nq4hv5/IMG5.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>6.21182202900926 grados y 129159583.787899Pa</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>12.4236440580185 grados y 258319167.575798Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>13.3032380573262 grados y 13.3032380573262Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>6211.82202900926 grados y  6211.82202900926Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>6.21182202900926e-9 grados y 6.21182202900926e-9Pa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+</quiz>

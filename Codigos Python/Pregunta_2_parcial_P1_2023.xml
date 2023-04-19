@@ -1,0 +1,1128 @@
+<?xml version="1.0" ?>
+<quiz>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de desplazamientos</text>
+		</name>
+		<questiontext>
+			<text> La probeta que se muestra en la figura fue cortada de una hoja de vinilo (E = 0.3x10^6psi) con 
+        0.125 in de espesor y está sometida a una carga de tensión de 350 lb. Determine a) el alargamiento total de la probeta, b) el
+        desplazamiento de su porción central BC. 
+
+        &lt;img src=&quot;https://i.ibb.co/xL2RP9h/IMG2.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.07653333333333334 y 0.04666666666666667</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.15306666666666668 y 0.09333333333333334</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.1639037866666667 y 0.09994133333333334</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>76.53333333333335 y 46.666666666666664</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>7.653333333333334e-11 y 4.666666666666667e-11</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de desplazamientos</text>
+		</name>
+		<questiontext>
+			<text> La probeta que se muestra en la figura fue cortada de una hoja de vinilo (E = 0.3x10^6psi) con 
+        0.25 in de espesor y está sometida a una carga de tensión de 350 lb. Determine a) el alargamiento total de la probeta, b) el
+        desplazamiento de su porción central BC. 
+
+        &lt;img src=&quot;https://i.ibb.co/xL2RP9h/IMG2.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.03826666666666667 y 0.023333333333333334</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.07653333333333334 y 0.04666666666666667</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.08195189333333334 y 0.04997066666666667</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>38.26666666666667 y 23.333333333333332</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>3.826666666666667e-11 y 2.3333333333333334e-11</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de desplazamientos</text>
+		</name>
+		<questiontext>
+			<text> La probeta que se muestra en la figura fue cortada de una hoja de vinilo (E = 0.3x10^6psi) con 
+        0.5 in de espesor y está sometida a una carga de tensión de 350 lb. Determine a) el alargamiento total de la probeta, b) el
+        desplazamiento de su porción central BC. 
+
+        &lt;img src=&quot;https://i.ibb.co/xL2RP9h/IMG2.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.019133333333333336 y 0.011666666666666667</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.03826666666666667 y 0.023333333333333334</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.04097594666666667 y 0.024985333333333335</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>19.133333333333336 y 11.666666666666666</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>1.9133333333333334e-11 y 1.1666666666666667e-11</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de desplazamientos</text>
+		</name>
+		<questiontext>
+			<text> La probeta que se muestra en la figura fue cortada de una hoja de vinilo (E = 0.3x10^6psi) con 
+        0.375 in de espesor y está sometida a una carga de tensión de 350 lb. Determine a) el alargamiento total de la probeta, b) el
+        desplazamiento de su porción central BC. 
+
+        &lt;img src=&quot;https://i.ibb.co/xL2RP9h/IMG2.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.02551111111111111 y 0.015555555555555553</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.05102222222222222 y 0.031111111111111107</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.054634595555555554 y 0.033313777777777775</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>25.51111111111111 y 15.555555555555554</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>2.551111111111111e-11 y 1.5555555555555552e-11</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de desplazamientos</text>
+		</name>
+		<questiontext>
+			<text> La probeta que se muestra en la figura fue cortada de una hoja de vinilo (E = 0.3x10^6psi) con 
+        0.1875 in de espesor y está sometida a una carga de tensión de 350 lb. Determine a) el alargamiento total de la probeta, b) el
+        desplazamiento de su porción central BC. 
+
+        &lt;img src=&quot;https://i.ibb.co/xL2RP9h/IMG2.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.05102222222222222 y 0.031111111111111107</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.10204444444444444 y 0.062222222222222213</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.10926919111111111 y 0.06662755555555555</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>51.02222222222222 y 31.111111111111107</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>5.102222222222222e-11 y 3.1111111111111105e-11</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de desplazamientos</text>
+		</name>
+		<questiontext>
+			<text> La probeta que se muestra en la figura fue cortada de una hoja de vinilo (E = 0.4x10^6psi) con 
+        0.125 in de espesor y está sometida a una carga de tensión de 350 lb. Determine a) el alargamiento total de la probeta, b) el
+        desplazamiento de su porción central BC. 
+
+        &lt;img src=&quot;https://i.ibb.co/xL2RP9h/IMG2.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.05740000000000001 y 0.035</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.11480000000000001 y 0.07</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.12292784000000001 y 0.07495600000000001</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>57.400000000000006 y 35.0</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>5.7400000000000003e-11 y 3.5e-11</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de desplazamientos</text>
+		</name>
+		<questiontext>
+			<text> La probeta que se muestra en la figura fue cortada de una hoja de vinilo (E = 0.4x10^6psi) con 
+        0.25 in de espesor y está sometida a una carga de tensión de 350 lb. Determine a) el alargamiento total de la probeta, b) el
+        desplazamiento de su porción central BC. 
+
+        &lt;img src=&quot;https://i.ibb.co/xL2RP9h/IMG2.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.028700000000000003 y 0.0175</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.05740000000000001 y 0.035</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.061463920000000005 y 0.037478000000000004</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>28.700000000000003 y 17.5</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>2.8700000000000002e-11 y 1.75e-11</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de desplazamientos</text>
+		</name>
+		<questiontext>
+			<text> La probeta que se muestra en la figura fue cortada de una hoja de vinilo (E = 0.4x10^6psi) con 
+        0.5 in de espesor y está sometida a una carga de tensión de 350 lb. Determine a) el alargamiento total de la probeta, b) el
+        desplazamiento de su porción central BC. 
+
+        &lt;img src=&quot;https://i.ibb.co/xL2RP9h/IMG2.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.014350000000000002 y 0.00875</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.028700000000000003 y 0.0175</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.030731960000000003 y 0.018739000000000002</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>14.350000000000001 y 8.75</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>1.4350000000000001e-11 y 8.75e-12</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de desplazamientos</text>
+		</name>
+		<questiontext>
+			<text> La probeta que se muestra en la figura fue cortada de una hoja de vinilo (E = 0.4x10^6psi) con 
+        0.375 in de espesor y está sometida a una carga de tensión de 350 lb. Determine a) el alargamiento total de la probeta, b) el
+        desplazamiento de su porción central BC. 
+
+        &lt;img src=&quot;https://i.ibb.co/xL2RP9h/IMG2.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.019133333333333332 y 0.011666666666666665</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.038266666666666664 y 0.02333333333333333</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.040975946666666666 y 0.02498533333333333</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>19.133333333333333 y 11.666666666666666</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>1.913333333333333e-11 y 1.1666666666666665e-11</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de desplazamientos</text>
+		</name>
+		<questiontext>
+			<text> La probeta que se muestra en la figura fue cortada de una hoja de vinilo (E = 0.4x10^6psi) con 
+        0.1875 in de espesor y está sometida a una carga de tensión de 350 lb. Determine a) el alargamiento total de la probeta, b) el
+        desplazamiento de su porción central BC. 
+
+        &lt;img src=&quot;https://i.ibb.co/xL2RP9h/IMG2.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.038266666666666664 y 0.02333333333333333</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.07653333333333333 y 0.04666666666666666</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.08195189333333333 y 0.04997066666666666</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>38.266666666666666 y 23.333333333333332</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>3.826666666666666e-11 y 2.333333333333333e-11</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de desplazamientos</text>
+		</name>
+		<questiontext>
+			<text> La probeta que se muestra en la figura fue cortada de una hoja de vinilo (E = 0.5x10^6psi) con 
+        0.125 in de espesor y está sometida a una carga de tensión de 350 lb. Determine a) el alargamiento total de la probeta, b) el
+        desplazamiento de su porción central BC. 
+
+        &lt;img src=&quot;https://i.ibb.co/xL2RP9h/IMG2.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.04592 y 0.028</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.09184 y 0.056</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.09834227200000001 y 0.0599648</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>45.92 y 28.0</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>4.592e-11 y 2.8e-11</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de desplazamientos</text>
+		</name>
+		<questiontext>
+			<text> La probeta que se muestra en la figura fue cortada de una hoja de vinilo (E = 0.5x10^6psi) con 
+        0.25 in de espesor y está sometida a una carga de tensión de 350 lb. Determine a) el alargamiento total de la probeta, b) el
+        desplazamiento de su porción central BC. 
+
+        &lt;img src=&quot;https://i.ibb.co/xL2RP9h/IMG2.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.02296 y 0.014</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.04592 y 0.028</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.049171136000000004 y 0.0299824</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>22.96 y 14.0</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>2.296e-11 y 1.4e-11</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de desplazamientos</text>
+		</name>
+		<questiontext>
+			<text> La probeta que se muestra en la figura fue cortada de una hoja de vinilo (E = 0.5x10^6psi) con 
+        0.5 in de espesor y está sometida a una carga de tensión de 350 lb. Determine a) el alargamiento total de la probeta, b) el
+        desplazamiento de su porción central BC. 
+
+        &lt;img src=&quot;https://i.ibb.co/xL2RP9h/IMG2.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.01148 y 0.007</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.02296 y 0.014</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.024585568000000002 y 0.0149912</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>11.48 y 7.0</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>1.148e-11 y 7e-12</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de desplazamientos</text>
+		</name>
+		<questiontext>
+			<text> La probeta que se muestra en la figura fue cortada de una hoja de vinilo (E = 0.5x10^6psi) con 
+        0.375 in de espesor y está sometida a una carga de tensión de 350 lb. Determine a) el alargamiento total de la probeta, b) el
+        desplazamiento de su porción central BC. 
+
+        &lt;img src=&quot;https://i.ibb.co/xL2RP9h/IMG2.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.015306666666666666 y 0.009333333333333332</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.030613333333333333 y 0.018666666666666665</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.032780757333333334 y 0.019988266666666664</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>15.306666666666667 y 9.333333333333332</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>1.5306666666666665e-11 y 9.333333333333332e-12</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de desplazamientos</text>
+		</name>
+		<questiontext>
+			<text> La probeta que se muestra en la figura fue cortada de una hoja de vinilo (E = 0.5x10^6psi) con 
+        0.1875 in de espesor y está sometida a una carga de tensión de 350 lb. Determine a) el alargamiento total de la probeta, b) el
+        desplazamiento de su porción central BC. 
+
+        &lt;img src=&quot;https://i.ibb.co/xL2RP9h/IMG2.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.030613333333333333 y 0.018666666666666665</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.061226666666666665 y 0.03733333333333333</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.06556151466666667 y 0.03997653333333333</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>30.613333333333333 y 18.666666666666664</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>3.061333333333333e-11 y 1.8666666666666664e-11</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de desplazamientos</text>
+		</name>
+		<questiontext>
+			<text> La probeta que se muestra en la figura fue cortada de una hoja de vinilo (E = 0.6x10^6psi) con 
+        0.125 in de espesor y está sometida a una carga de tensión de 350 lb. Determine a) el alargamiento total de la probeta, b) el
+        desplazamiento de su porción central BC. 
+
+        &lt;img src=&quot;https://i.ibb.co/xL2RP9h/IMG2.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.03826666666666667 y 0.023333333333333334</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.07653333333333334 y 0.04666666666666667</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.08195189333333334 y 0.04997066666666667</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>38.26666666666667 y 23.333333333333332</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>3.826666666666667e-11 y 2.3333333333333334e-11</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de desplazamientos</text>
+		</name>
+		<questiontext>
+			<text> La probeta que se muestra en la figura fue cortada de una hoja de vinilo (E = 0.6x10^6psi) con 
+        0.25 in de espesor y está sometida a una carga de tensión de 350 lb. Determine a) el alargamiento total de la probeta, b) el
+        desplazamiento de su porción central BC. 
+
+        &lt;img src=&quot;https://i.ibb.co/xL2RP9h/IMG2.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.019133333333333336 y 0.011666666666666667</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.03826666666666667 y 0.023333333333333334</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.04097594666666667 y 0.024985333333333335</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>19.133333333333336 y 11.666666666666666</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>1.9133333333333334e-11 y 1.1666666666666667e-11</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de desplazamientos</text>
+		</name>
+		<questiontext>
+			<text> La probeta que se muestra en la figura fue cortada de una hoja de vinilo (E = 0.6x10^6psi) con 
+        0.5 in de espesor y está sometida a una carga de tensión de 350 lb. Determine a) el alargamiento total de la probeta, b) el
+        desplazamiento de su porción central BC. 
+
+        &lt;img src=&quot;https://i.ibb.co/xL2RP9h/IMG2.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.009566666666666668 y 0.005833333333333334</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.019133333333333336 y 0.011666666666666667</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.020487973333333336 y 0.012492666666666668</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>9.566666666666668 y 5.833333333333333</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>9.566666666666667e-12 y 5.833333333333333e-12</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de desplazamientos</text>
+		</name>
+		<questiontext>
+			<text> La probeta que se muestra en la figura fue cortada de una hoja de vinilo (E = 0.6x10^6psi) con 
+        0.375 in de espesor y está sometida a una carga de tensión de 350 lb. Determine a) el alargamiento total de la probeta, b) el
+        desplazamiento de su porción central BC. 
+
+        &lt;img src=&quot;https://i.ibb.co/xL2RP9h/IMG2.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.012755555555555555 y 0.007777777777777777</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.02551111111111111 y 0.015555555555555553</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.027317297777777777 y 0.016656888888888888</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>12.755555555555555 y 7.777777777777777</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>1.2755555555555555e-11 y 7.777777777777776e-12</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de desplazamientos</text>
+		</name>
+		<questiontext>
+			<text> La probeta que se muestra en la figura fue cortada de una hoja de vinilo (E = 0.6x10^6psi) con 
+        0.1875 in de espesor y está sometida a una carga de tensión de 350 lb. Determine a) el alargamiento total de la probeta, b) el
+        desplazamiento de su porción central BC. 
+
+        &lt;img src=&quot;https://i.ibb.co/xL2RP9h/IMG2.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.02551111111111111 y 0.015555555555555553</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.05102222222222222 y 0.031111111111111107</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.054634595555555554 y 0.033313777777777775</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>25.51111111111111 y 15.555555555555554</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>2.551111111111111e-11 y 1.5555555555555552e-11</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de desplazamientos</text>
+		</name>
+		<questiontext>
+			<text> La probeta que se muestra en la figura fue cortada de una hoja de vinilo (E = 0.7x10^6psi) con 
+        0.125 in de espesor y está sometida a una carga de tensión de 350 lb. Determine a) el alargamiento total de la probeta, b) el
+        desplazamiento de su porción central BC. 
+
+        &lt;img src=&quot;https://i.ibb.co/xL2RP9h/IMG2.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.0328 y 0.02</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.0656 y 0.04</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.07024448 y 0.042832</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>32.800000000000004 y 20.0</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>3.2800000000000006e-11 y 2.0000000000000002e-11</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de desplazamientos</text>
+		</name>
+		<questiontext>
+			<text> La probeta que se muestra en la figura fue cortada de una hoja de vinilo (E = 0.7x10^6psi) con 
+        0.25 in de espesor y está sometida a una carga de tensión de 350 lb. Determine a) el alargamiento total de la probeta, b) el
+        desplazamiento de su porción central BC. 
+
+        &lt;img src=&quot;https://i.ibb.co/xL2RP9h/IMG2.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.0164 y 0.01</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.0328 y 0.02</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.03512224 y 0.021416</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>16.400000000000002 y 10.0</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>1.6400000000000003e-11 y 1.0000000000000001e-11</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de desplazamientos</text>
+		</name>
+		<questiontext>
+			<text> La probeta que se muestra en la figura fue cortada de una hoja de vinilo (E = 0.7x10^6psi) con 
+        0.5 in de espesor y está sometida a una carga de tensión de 350 lb. Determine a) el alargamiento total de la probeta, b) el
+        desplazamiento de su porción central BC. 
+
+        &lt;img src=&quot;https://i.ibb.co/xL2RP9h/IMG2.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.0082 y 0.005</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.0164 y 0.01</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.01756112 y 0.010708</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>8.200000000000001 y 5.0</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>8.200000000000001e-12 y 5.0000000000000005e-12</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de desplazamientos</text>
+		</name>
+		<questiontext>
+			<text> La probeta que se muestra en la figura fue cortada de una hoja de vinilo (E = 0.7x10^6psi) con 
+        0.375 in de espesor y está sometida a una carga de tensión de 350 lb. Determine a) el alargamiento total de la probeta, b) el
+        desplazamiento de su porción central BC. 
+
+        &lt;img src=&quot;https://i.ibb.co/xL2RP9h/IMG2.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.010933333333333333 y 0.006666666666666665</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.021866666666666666 y 0.01333333333333333</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.023414826666666666 y 0.01427733333333333</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>10.933333333333334 y 6.666666666666665</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>1.0933333333333333e-11 y 6.6666666666666655e-12</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de desplazamientos</text>
+		</name>
+		<questiontext>
+			<text> La probeta que se muestra en la figura fue cortada de una hoja de vinilo (E = 0.7x10^6psi) con 
+        0.1875 in de espesor y está sometida a una carga de tensión de 350 lb. Determine a) el alargamiento total de la probeta, b) el
+        desplazamiento de su porción central BC. 
+
+        &lt;img src=&quot;https://i.ibb.co/xL2RP9h/IMG2.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.021866666666666666 y 0.01333333333333333</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.04373333333333333 y 0.02666666666666666</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.04682965333333333 y 0.02855466666666666</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>21.866666666666667 y 13.33333333333333</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>2.1866666666666666e-11 y 1.3333333333333331e-11</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+</quiz>

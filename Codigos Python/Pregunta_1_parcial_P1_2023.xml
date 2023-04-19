@@ -1,0 +1,1128 @@
+<?xml version="1.0" ?>
+<quiz>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones y Fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las dos porciones de la varilla ABC están hechas de un aluminio para el que 
+        E =35GPa. Si se sabe que la magnitud de P es de 2kN, encuentre a) el 
+        valor de Q para que la deflexión en A sea cero, b) la deflexión correspondiente de B. 
+
+        &lt;img src=&quot;https://i.ibb.co/5T4fMX9/IMG1.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>16400.0000000000 y -7.27565454134378e-5</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>32800.0000000000 y -0.000145513090826876</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>35122.2400000000 y -0.000155815417657418</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>16400000.0000000 y -0.0727565454134377</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>1.64000000000000e-5 y -7.27565454134378e-14</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones y Fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las dos porciones de la varilla ABC están hechas de un aluminio para el que 
+        E =35GPa. Si se sabe que la magnitud de P es de 4kN, encuentre a) el 
+        valor de Q para que la deflexión en A sea cero, b) la deflexión correspondiente de B. 
+
+        &lt;img src=&quot;https://i.ibb.co/5T4fMX9/IMG1.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>32799.9999999999 y -0.000145513090826875</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>65599.9999999998 y -0.000291026181653750</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>70244.4799999997 y -0.000311630835314836</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>32799999.9999999 y -0.145513090826875</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>3.27999999999999e-5 y -1.45513090826875e-13</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones y Fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las dos porciones de la varilla ABC están hechas de un aluminio para el que 
+        E =35GPa. Si se sabe que la magnitud de P es de 8kN, encuentre a) el 
+        valor de Q para que la deflexión en A sea cero, b) la deflexión correspondiente de B. 
+
+        &lt;img src=&quot;https://i.ibb.co/5T4fMX9/IMG1.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>65599.9999999999 y -0.000291026181653751</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>131200.000000000 y -0.000582052363307502</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>140488.960000000 y -0.000623261670629673</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>65599999.9999999 y -0.291026181653751</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>6.55999999999999e-5 y -2.91026181653751e-13</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones y Fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las dos porciones de la varilla ABC están hechas de un aluminio para el que 
+        E =35GPa. Si se sabe que la magnitud de P es de 16kN, encuentre a) el 
+        valor de Q para que la deflexión en A sea cero, b) la deflexión correspondiente de B. 
+
+        &lt;img src=&quot;https://i.ibb.co/5T4fMX9/IMG1.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>131200.000000000 y -0.000582052363307502</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>262400.000000000 y -0.00116410472661500</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>280977.920000000 y -0.00124652334125935</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>131200000.000000 y -0.582052363307502</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.000131200000000000 y -5.82052363307502e-13</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones y Fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las dos porciones de la varilla ABC están hechas de un aluminio para el que 
+        E =35GPa. Si se sabe que la magnitud de P es de 32kN, encuentre a) el 
+        valor de Q para que la deflexión en A sea cero, b) la deflexión correspondiente de B. 
+
+        &lt;img src=&quot;https://i.ibb.co/5T4fMX9/IMG1.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>262400.000000000 y -0.00116410472661501</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>524800.000000000 y -0.00232820945323001</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>561955.840000000 y -0.00249304668251870</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>262400000.000000 y -1.16410472661501</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.000262400000000000 y -1.16410472661501e-12</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones y Fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las dos porciones de la varilla ABC están hechas de un aluminio para el que 
+        E =70GPa. Si se sabe que la magnitud de P es de 2kN, encuentre a) el 
+        valor de Q para que la deflexión en A sea cero, b) la deflexión correspondiente de B. 
+
+        &lt;img src=&quot;https://i.ibb.co/5T4fMX9/IMG1.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>16400.0000000000 y -3.63782727067190e-5</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>32800.0000000000 y -7.27565454134379e-5</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>35122.2400000000 y -7.79077088287093e-5</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>16400000.0000000 y -0.0363782727067190</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>1.64000000000000e-5 y -3.63782727067190e-14</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones y Fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las dos porciones de la varilla ABC están hechas de un aluminio para el que 
+        E =70GPa. Si se sabe que la magnitud de P es de 4kN, encuentre a) el 
+        valor de Q para que la deflexión en A sea cero, b) la deflexión correspondiente de B. 
+
+        &lt;img src=&quot;https://i.ibb.co/5T4fMX9/IMG1.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>32800.0000000000 y -7.27565454134379e-5</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>65600.0000000000 y -0.000145513090826876</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>70244.4800000000 y -0.000155815417657419</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>32800000.0000000 y -0.0727565454134379</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>3.28000000000000e-5 y -7.27565454134379e-14</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones y Fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las dos porciones de la varilla ABC están hechas de un aluminio para el que 
+        E =70GPa. Si se sabe que la magnitud de P es de 8kN, encuentre a) el 
+        valor de Q para que la deflexión en A sea cero, b) la deflexión correspondiente de B. 
+
+        &lt;img src=&quot;https://i.ibb.co/5T4fMX9/IMG1.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>65599.9999999999 y -0.000145513090826875</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>131200.000000000 y -0.000291026181653751</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>140488.960000000 y -0.000311630835314836</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>65599999.9999999 y -0.145513090826875</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>6.55999999999999e-5 y -1.45513090826875e-13</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones y Fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las dos porciones de la varilla ABC están hechas de un aluminio para el que 
+        E =70GPa. Si se sabe que la magnitud de P es de 16kN, encuentre a) el 
+        valor de Q para que la deflexión en A sea cero, b) la deflexión correspondiente de B. 
+
+        &lt;img src=&quot;https://i.ibb.co/5T4fMX9/IMG1.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>131200.000000000 y -0.000291026181653752</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>262400.000000000 y -0.000582052363307504</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>280977.920000000 y -0.000623261670629675</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>131200000.000000 y -0.291026181653752</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.000131200000000000 y -2.91026181653752e-13</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones y Fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las dos porciones de la varilla ABC están hechas de un aluminio para el que 
+        E =70GPa. Si se sabe que la magnitud de P es de 32kN, encuentre a) el 
+        valor de Q para que la deflexión en A sea cero, b) la deflexión correspondiente de B. 
+
+        &lt;img src=&quot;https://i.ibb.co/5T4fMX9/IMG1.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>262400.000000000 y -0.000582052363307504</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>524800.000000001 y -0.00116410472661501</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>561955.840000001 y -0.00124652334125935</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>262400000.000000 y -0.582052363307504</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.000262400000000000 y -5.82052363307504e-13</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones y Fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las dos porciones de la varilla ABC están hechas de un aluminio para el que 
+        E =100GPa. Si se sabe que la magnitud de P es de 2kN, encuentre a) el 
+        valor de Q para que la deflexión en A sea cero, b) la deflexión correspondiente de B. 
+
+        &lt;img src=&quot;https://i.ibb.co/5T4fMX9/IMG1.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>16400.0000000000 y -2.54647908947032e-5</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>32799.9999999999 y -5.09295817894064e-5</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>35122.2399999999 y -5.45353961800963e-5</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>16400000.0000000 y -0.0254647908947032</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>1.64000000000000e-5 y -2.54647908947032e-14</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones y Fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las dos porciones de la varilla ABC están hechas de un aluminio para el que 
+        E =100GPa. Si se sabe que la magnitud de P es de 4kN, encuentre a) el 
+        valor de Q para que la deflexión en A sea cero, b) la deflexión correspondiente de B. 
+
+        &lt;img src=&quot;https://i.ibb.co/5T4fMX9/IMG1.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>32799.9999999999 y -5.09295817894064e-5</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>65599.9999999998 y -0.000101859163578813</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>70244.4799999998 y -0.000109070792360193</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>32799999.9999999 y -0.0509295817894064</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>3.27999999999999e-5 y -5.09295817894064e-14</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones y Fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las dos porciones de la varilla ABC están hechas de un aluminio para el que 
+        E =100GPa. Si se sabe que la magnitud de P es de 8kN, encuentre a) el 
+        valor de Q para que la deflexión en A sea cero, b) la deflexión correspondiente de B. 
+
+        &lt;img src=&quot;https://i.ibb.co/5T4fMX9/IMG1.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>65599.9999999998 y -0.000101859163578813</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>131200.000000000 y -0.000203718327157625</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>140488.960000000 y -0.000218141584720385</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>65599999.9999998 y -0.101859163578813</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>6.55999999999998e-5 y -1.01859163578813e-13</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones y Fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las dos porciones de la varilla ABC están hechas de un aluminio para el que 
+        E =100GPa. Si se sabe que la magnitud de P es de 16kN, encuentre a) el 
+        valor de Q para que la deflexión en A sea cero, b) la deflexión correspondiente de B. 
+
+        &lt;img src=&quot;https://i.ibb.co/5T4fMX9/IMG1.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>131200.000000000 y -0.000203718327157625</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>262399.999999999 y -0.000407436654315251</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>280977.919999999 y -0.000436283169440771</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>131200000.000000 y -0.203718327157625</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.000131200000000000 y -2.03718327157625e-13</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones y Fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las dos porciones de la varilla ABC están hechas de un aluminio para el que 
+        E =100GPa. Si se sabe que la magnitud de P es de 32kN, encuentre a) el 
+        valor de Q para que la deflexión en A sea cero, b) la deflexión correspondiente de B. 
+
+        &lt;img src=&quot;https://i.ibb.co/5T4fMX9/IMG1.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>262399.999999999 y -0.000407436654315251</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>524799.999999999 y -0.000814873308630502</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>561955.839999999 y -0.000872566338881542</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>262399999.999999 y -0.407436654315251</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.000262399999999999 y -4.07436654315251e-13</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones y Fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las dos porciones de la varilla ABC están hechas de un aluminio para el que 
+        E =140GPa. Si se sabe que la magnitud de P es de 2kN, encuentre a) el 
+        valor de Q para que la deflexión en A sea cero, b) la deflexión correspondiente de B. 
+
+        &lt;img src=&quot;https://i.ibb.co/5T4fMX9/IMG1.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>16400.0000000000 y -1.81891363533594e-5</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>32800.0000000000 y -3.63782727067189e-5</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>35122.2400000000 y -3.89538544143546e-5</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>16400000.0000000 y -0.0181891363533594</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>1.64000000000000e-5 y -1.81891363533594e-14</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones y Fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las dos porciones de la varilla ABC están hechas de un aluminio para el que 
+        E =140GPa. Si se sabe que la magnitud de P es de 4kN, encuentre a) el 
+        valor de Q para que la deflexión en A sea cero, b) la deflexión correspondiente de B. 
+
+        &lt;img src=&quot;https://i.ibb.co/5T4fMX9/IMG1.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>32799.9999999999 y -3.63782727067188e-5</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>65599.9999999998 y -7.27565454134376e-5</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>70244.4799999998 y -7.79077088287090e-5</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>32799999.9999999 y -0.0363782727067188</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>3.27999999999999e-5 y -3.63782727067188e-14</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones y Fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las dos porciones de la varilla ABC están hechas de un aluminio para el que 
+        E =140GPa. Si se sabe que la magnitud de P es de 8kN, encuentre a) el 
+        valor de Q para que la deflexión en A sea cero, b) la deflexión correspondiente de B. 
+
+        &lt;img src=&quot;https://i.ibb.co/5T4fMX9/IMG1.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>65599.9999999998 y -7.27565454134376e-5</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>131200.000000000 y -0.000145513090826875</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>140488.960000000 y -0.000155815417657418</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>65599999.9999998 y -0.0727565454134376</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>6.55999999999998e-5 y -7.27565454134376e-14</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones y Fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las dos porciones de la varilla ABC están hechas de un aluminio para el que 
+        E =140GPa. Si se sabe que la magnitud de P es de 16kN, encuentre a) el 
+        valor de Q para que la deflexión en A sea cero, b) la deflexión correspondiente de B. 
+
+        &lt;img src=&quot;https://i.ibb.co/5T4fMX9/IMG1.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>131199.999999999 y -0.000145513090826875</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>262399.999999998 y -0.000291026181653750</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>280977.919999998 y -0.000311630835314835</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>131199999.999999 y -0.145513090826875</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.000131199999999999 y -1.45513090826875e-13</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones y Fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las dos porciones de la varilla ABC están hechas de un aluminio para el que 
+        E =140GPa. Si se sabe que la magnitud de P es de 32kN, encuentre a) el 
+        valor de Q para que la deflexión en A sea cero, b) la deflexión correspondiente de B. 
+
+        &lt;img src=&quot;https://i.ibb.co/5T4fMX9/IMG1.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>262399.999999999 y -0.000291026181653751</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>524799.999999998 y -0.000582052363307501</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>561955.839999998 y -0.000623261670629672</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>262399999.999999 y -0.291026181653751</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.000262399999999999 y -2.91026181653751e-13</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones y Fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las dos porciones de la varilla ABC están hechas de un aluminio para el que 
+        E =280GPa. Si se sabe que la magnitud de P es de 2kN, encuentre a) el 
+        valor de Q para que la deflexión en A sea cero, b) la deflexión correspondiente de B. 
+
+        &lt;img src=&quot;https://i.ibb.co/5T4fMX9/IMG1.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>16400.0000000000 y -9.09456817667971e-6</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>32799.9999999999 y -1.81891363533594e-5</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>35122.2399999999 y -1.94769272071773e-5</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>16400000.0000000 y -0.00909456817667971</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>1.64000000000000e-5 y -9.09456817667971e-15</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones y Fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las dos porciones de la varilla ABC están hechas de un aluminio para el que 
+        E =280GPa. Si se sabe que la magnitud de P es de 4kN, encuentre a) el 
+        valor de Q para que la deflexión en A sea cero, b) la deflexión correspondiente de B. 
+
+        &lt;img src=&quot;https://i.ibb.co/5T4fMX9/IMG1.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>32800.0000000001 y -1.81891363533595e-5</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>65600.0000000001 y -3.63782727067190e-5</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>70244.4800000002 y -3.89538544143547e-5</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>32800000.0000001 y -0.0181891363533595</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>3.28000000000001e-5 y -1.81891363533595e-14</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones y Fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las dos porciones de la varilla ABC están hechas de un aluminio para el que 
+        E =280GPa. Si se sabe que la magnitud de P es de 8kN, encuentre a) el 
+        valor de Q para que la deflexión en A sea cero, b) la deflexión correspondiente de B. 
+
+        &lt;img src=&quot;https://i.ibb.co/5T4fMX9/IMG1.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>65600.0000000000 y -3.63782727067189e-5</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>131200.000000000 y -7.27565454134378e-5</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>140488.960000000 y -7.79077088287092e-5</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>65600000.0000000 y -0.0363782727067189</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>6.56000000000000e-5 y -3.63782727067189e-14</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones y Fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las dos porciones de la varilla ABC están hechas de un aluminio para el que 
+        E =280GPa. Si se sabe que la magnitud de P es de 16kN, encuentre a) el 
+        valor de Q para que la deflexión en A sea cero, b) la deflexión correspondiente de B. 
+
+        &lt;img src=&quot;https://i.ibb.co/5T4fMX9/IMG1.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>131200.000000000 y -7.27565454134378e-5</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>262400.000000000 y -0.000145513090826876</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>280977.920000000 y -0.000155815417657418</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>131200000.000000 y -0.0727565454134378</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.000131200000000000 y -7.27565454134379e-14</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones y Fuerzas</text>
+		</name>
+		<questiontext>
+			<text> Las dos porciones de la varilla ABC están hechas de un aluminio para el que 
+        E =280GPa. Si se sabe que la magnitud de P es de 32kN, encuentre a) el 
+        valor de Q para que la deflexión en A sea cero, b) la deflexión correspondiente de B. 
+
+        &lt;img src=&quot;https://i.ibb.co/5T4fMX9/IMG1.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>262399.999999999 y -0.000145513090826875</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>524799.999999999 y -0.000291026181653751</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>561955.839999998 y -0.000311630835314836</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>262399999.999999 y -0.145513090826875</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.000262399999999999 y -1.45513090826875e-13</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+</quiz>

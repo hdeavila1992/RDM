@@ -1,0 +1,802 @@
+<?xml version="1.0" ?>
+<quiz>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones1</text>
+		</name>
+		<questiontext>
+			<text> Parte de un eslabonamiento de control para un
+        avión consiste en un elemento rígido CB y un cable flexible
+        AB. Si se aplica una fuerza al extremo B del elemento y se
+        hace que éste gire un ángulo Theta = 0.5°, determine la deformación unitaria normal en el cable. En un inicio, el cable
+        no está estirado. 
+
+        &lt;img src=&quot;https://i.ibb.co/gwpyPhJ/IMG7.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;</text>
+		</questiontext>
+		<answer fraction="100">
+			<text> la deformación unitaria normal en el cable es:[0.0041800008357262275]</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[0.008360001671452455]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[0.008951889789791289]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[4.1800008357262275]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[4.180000835726227e-12]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones2</text>
+		</name>
+		<questiontext>
+			<text> Parte de un eslabonamiento de control para un
+        avión consiste en un elemento rígido CB y un cable flexible
+        AB. Si se aplica una fuerza al extremo B del elemento y se
+        hace que éste gire un ángulo Theta = 0.55°, determine la deformación unitaria normal en el cable. En un inicio, el cable
+        no está estirado. 
+
+        &lt;img src=&quot;https://i.ibb.co/gwpyPhJ/IMG7.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;</text>
+		</questiontext>
+		<answer fraction="100">
+			<text> la deformación unitaria normal en el cable es:[0.004597032109842525]</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[0.00919406421968505]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[0.009845003966438752]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[4.597032109842525]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[4.597032109842525e-12]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones3</text>
+		</name>
+		<questiontext>
+			<text> Parte de un eslabonamiento de control para un
+        avión consiste en un elemento rígido CB y un cable flexible
+        AB. Si se aplica una fuerza al extremo B del elemento y se
+        hace que éste gire un ángulo Theta = 0.6°, determine la deformación unitaria normal en el cable. En un inicio, el cable
+        no está estirado. 
+
+        &lt;img src=&quot;https://i.ibb.co/gwpyPhJ/IMG7.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;</text>
+		</questiontext>
+		<answer fraction="100">
+			<text> la deformación unitaria normal en el cable es:[0.0050138868451501395]</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[0.0041800008357262275]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[0.010737740067573538]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[5.0138868451501395]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[5.0138868451501395e-12]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones4</text>
+		</name>
+		<questiontext>
+			<text> Parte de un eslabonamiento de control para un
+        avión consiste en un elemento rígido CB y un cable flexible
+        AB. Si se aplica una fuerza al extremo B del elemento y se
+        hace que éste gire un ángulo Theta = 0.65°, determine la deformación unitaria normal en el cable. En un inicio, el cable
+        no está estirado. 
+
+        &lt;img src=&quot;https://i.ibb.co/gwpyPhJ/IMG7.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;</text>
+		</questiontext>
+		<answer fraction="100">
+			<text> la deformación unitaria normal en el cable es:[0.005430564943973426]</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[0.0041800008357262275]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[0.011630097884013488]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[5.430564943973426]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[5.430564943973426e-12]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones5</text>
+		</name>
+		<questiontext>
+			<text> Parte de un eslabonamiento de control para un
+        avión consiste en un elemento rígido CB y un cable flexible
+        AB. Si se aplica una fuerza al extremo B del elemento y se
+        hace que éste gire un ángulo Theta = 0.7°, determine la deformación unitaria normal en el cable. En un inicio, el cable
+        no está estirado. 
+
+        &lt;img src=&quot;https://i.ibb.co/gwpyPhJ/IMG7.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;</text>
+		</questiontext>
+		<answer fraction="100">
+			<text> la deformación unitaria normal en el cable es:[0.00584706630870957]</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[0.0041800008357262275]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[0.012522077206732414]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[5.84706630870957]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[5.8470663087095696e-12]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones6</text>
+		</name>
+		<questiontext>
+			<text> Parte de un eslabonamiento de control para un
+        avión consiste en un elemento rígido CB y un cable flexible
+        AB. Si se aplica una fuerza al extremo B del elemento y se
+        hace que éste gire un ángulo Theta = 0.75°, determine la deformación unitaria normal en el cable. En un inicio, el cable
+        no está estirado. 
+
+        &lt;img src=&quot;https://i.ibb.co/gwpyPhJ/IMG7.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;</text>
+		</questiontext>
+		<answer fraction="100">
+			<text> la deformación unitaria normal en el cable es:[0.006263390841826588]</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[0.0041800008357262275]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[0.01341367782685582]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[6.263390841826588]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[6.2633908418265885e-12]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones7</text>
+		</name>
+		<questiontext>
+			<text> Parte de un eslabonamiento de control para un
+        avión consiste en un elemento rígido CB y un cable flexible
+        AB. Si se aplica una fuerza al extremo B del elemento y se
+        hace que éste gire un ángulo Theta = 0.8°, determine la deformación unitaria normal en el cable. En un inicio, el cable
+        no está estirado. 
+
+        &lt;img src=&quot;https://i.ibb.co/gwpyPhJ/IMG7.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;</text>
+		</questiontext>
+		<answer fraction="100">
+			<text> la deformación unitaria normal en el cable es:[0.006679538445864885]</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[0.0041800008357262275]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[0.014304899535664238]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[6.679538445864885]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[6.679538445864885e-12]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones8</text>
+		</name>
+		<questiontext>
+			<text> Parte de un eslabonamiento de control para un
+        avión consiste en un elemento rígido CB y un cable flexible
+        AB. Si se aplica una fuerza al extremo B del elemento y se
+        hace que éste gire un ángulo Theta = 0.85°, determine la deformación unitaria normal en el cable. En un inicio, el cable
+        no está estirado. 
+
+        &lt;img src=&quot;https://i.ibb.co/gwpyPhJ/IMG7.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;</text>
+		</questiontext>
+		<answer fraction="100">
+			<text> la deformación unitaria normal en el cable es:[0.007095509023435698]</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[0.0041800008357262275]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[0.01519574212458989]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[7.095509023435698]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[7.095509023435698e-12]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones9</text>
+		</name>
+		<questiontext>
+			<text> Parte de un eslabonamiento de control para un
+        avión consiste en un elemento rígido CB y un cable flexible
+        AB. Si se aplica una fuerza al extremo B del elemento y se
+        hace que éste gire un ángulo Theta = 0.9°, determine la deformación unitaria normal en el cable. En un inicio, el cable
+        no está estirado. 
+
+        &lt;img src=&quot;https://i.ibb.co/gwpyPhJ/IMG7.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;</text>
+		</questiontext>
+		<answer fraction="100">
+			<text> la deformación unitaria normal en el cable es:[0.00751130247722176]</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[0.0041800008357262275]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[0.01608620538521812]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[7.51130247722176]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[7.51130247722176e-12]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones10</text>
+		</name>
+		<questiontext>
+			<text> Parte de un eslabonamiento de control para un
+        avión consiste en un elemento rígido CB y un cable flexible
+        AB. Si se aplica una fuerza al extremo B del elemento y se
+        hace que éste gire un ángulo Theta = 0.1°, determine la deformación unitaria normal en el cable. En un inicio, el cable
+        no está estirado. 
+
+        &lt;img src=&quot;https://i.ibb.co/gwpyPhJ/IMG7.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;</text>
+		</questiontext>
+		<answer fraction="100">
+			<text> la deformación unitaria normal en el cable es:[0.0008374069903973602]</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[0.0041800008357262275]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[0.0017933908106349866]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[0.8374069903973602]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[8.374069903973602e-13]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones11</text>
+		</name>
+		<questiontext>
+			<text> Parte de un eslabonamiento de control para un
+        avión consiste en un elemento rígido CB y un cable flexible
+        AB. Si se aplica una fuerza al extremo B del elemento y se
+        hace que éste gire un ángulo Theta = 0.15°, determine la deformación unitaria normal en el cable. En un inicio, el cable
+        no está estirado. 
+
+        &lt;img src=&quot;https://i.ibb.co/gwpyPhJ/IMG7.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;</text>
+		</questiontext>
+		<answer fraction="100">
+			<text> la deformación unitaria normal en el cable es:[0.0012558470500541041]</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[0.0041800008357262275]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[0.0026895220423958695]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[1.2558470500541041]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[1.255847050054104e-12]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones12</text>
+		</name>
+		<questiontext>
+			<text> Parte de un eslabonamiento de control para un
+        avión consiste en un elemento rígido CB y un cable flexible
+        AB. Si se aplica una fuerza al extremo B del elemento y se
+        hace que éste gire un ángulo Theta = 0.2°, determine la deformación unitaria normal en el cable. En un inicio, el cable
+        no está estirado. 
+
+        &lt;img src=&quot;https://i.ibb.co/gwpyPhJ/IMG7.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;</text>
+		</questiontext>
+		<answer fraction="100">
+			<text> la deformación unitaria normal en el cable es:[0.0016741113548930375]</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[0.0041800008357262275]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[0.003585276877638929]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[1.6741113548930375]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[1.6741113548930375e-12]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones13</text>
+		</name>
+		<questiontext>
+			<text> Parte de un eslabonamiento de control para un
+        avión consiste en un elemento rígido CB y un cable flexible
+        AB. Si se aplica una fuerza al extremo B del elemento y se
+        hace que éste gire un ángulo Theta = 0.25°, determine la deformación unitaria normal en el cable. En un inicio, el cable
+        no está estirado. 
+
+        &lt;img src=&quot;https://i.ibb.co/gwpyPhJ/IMG7.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;</text>
+		</questiontext>
+		<answer fraction="100">
+			<text> la deformación unitaria normal en el cable es:[0.0020921998066629754]</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[0.0041800008357262275]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[0.004480655105949428]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[2.0921998066629754]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[2.0921998066629756e-12]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones14</text>
+		</name>
+		<questiontext>
+			<text> Parte de un eslabonamiento de control para un
+        avión consiste en un elemento rígido CB y un cable flexible
+        AB. Si se aplica una fuerza al extremo B del elemento y se
+        hace que éste gire un ángulo Theta = 0.3°, determine la deformación unitaria normal en el cable. En un inicio, el cable
+        no está estirado. 
+
+        &lt;img src=&quot;https://i.ibb.co/gwpyPhJ/IMG7.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;</text>
+		</questiontext>
+		<answer fraction="100">
+			<text> la deformación unitaria normal en el cable es:[0.0025101123071840092]</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[0.0041800008357262275]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[0.005375656517065274]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[2.5101123071840092]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[2.5101123071840093e-12]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones15</text>
+		</name>
+		<questiontext>
+			<text> Parte de un eslabonamiento de control para un
+        avión consiste en un elemento rígido CB y un cable flexible
+        AB. Si se aplica una fuerza al extremo B del elemento y se
+        hace que éste gire un ángulo Theta = 0.35°, determine la deformación unitaria normal en el cable. En un inicio, el cable
+        no está estirado. 
+
+        &lt;img src=&quot;https://i.ibb.co/gwpyPhJ/IMG7.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;</text>
+		</questiontext>
+		<answer fraction="100">
+			<text> la deformación unitaria normal en el cable es:[0.002927848758349727]</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[0.0041800008357262275]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[0.006270280900881775]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[2.927848758349727]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[2.927848758349727e-12]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones16</text>
+		</name>
+		<questiontext>
+			<text> Parte de un eslabonamiento de control para un
+        avión consiste en un elemento rígido CB y un cable flexible
+        AB. Si se aplica una fuerza al extremo B del elemento y se
+        hace que éste gire un ángulo Theta = 0.4°, determine la deformación unitaria normal en el cable. En un inicio, el cable
+        no está estirado. 
+
+        &lt;img src=&quot;https://i.ibb.co/gwpyPhJ/IMG7.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;</text>
+		</questiontext>
+		<answer fraction="100">
+			<text> la deformación unitaria normal en el cable es:[0.0033454090621249932]</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[0.0041800008357262275]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[0.007164528047446886]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[3.3454090621249932]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[3.3454090621249934e-12]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones17</text>
+		</name>
+		<questiontext>
+			<text> Parte de un eslabonamiento de control para un
+        avión consiste en un elemento rígido CB y un cable flexible
+        AB. Si se aplica una fuerza al extremo B del elemento y se
+        hace que éste gire un ángulo Theta = 0.45°, determine la deformación unitaria normal en el cable. En un inicio, el cable
+        no está estirado. 
+
+        &lt;img src=&quot;https://i.ibb.co/gwpyPhJ/IMG7.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;</text>
+		</questiontext>
+		<answer fraction="100">
+			<text> la deformación unitaria normal en el cable es:[0.003762793120547281]</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[0.0041800008357262275]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[0.008058397746964057]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[3.762793120547281]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> la deformación unitaria normal en el cable:[3.762793120547281e-12]</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+</quiz>

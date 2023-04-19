@@ -1,0 +1,1128 @@
+<?xml version="1.0" ?>
+<quiz>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro final</text>
+		</name>
+		<questiontext>
+			<text> Una sola carga axial de magnitud P = 10 kips se aplica al extremo C de la 
+        varilla de acero ABC. Si se sabe que E = 20x10^6psi, determine el diámetro 
+        d de la porción BC para el cual la deflexión del punto C será 0.05 in. 
+
+        &lt;img src=&quot;https://i.ibb.co/WsvFPM7/IMG3.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.867655448851447</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.433827724425724</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.405143560352749</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.000867655448851447</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>8.67655448851447e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro final</text>
+		</name>
+		<questiontext>
+			<text> Una sola carga axial de magnitud P = 10 kips se aplica al extremo C de la 
+        varilla de acero ABC. Si se sabe que E = 30x10^6psi, determine el diámetro 
+        d de la porción BC para el cual la deflexión del punto C será 0.05 in. 
+
+        &lt;img src=&quot;https://i.ibb.co/WsvFPM7/IMG3.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.642936071144361</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.321468035572181</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.300212958136142</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.000642936071144361</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>6.42936071144361e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro final</text>
+		</name>
+		<questiontext>
+			<text> Una sola carga axial de magnitud P = 10 kips se aplica al extremo C de la 
+        varilla de acero ABC. Si se sabe que E = 40x10^6psi, determine el diámetro 
+        d de la porción BC para el cual la deflexión del punto C será 0.05 in. 
+
+        &lt;img src=&quot;https://i.ibb.co/WsvFPM7/IMG3.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.533761288489303</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.266880644244652</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.249234819055521</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.000533761288489303</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>5.33761288489303e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro final</text>
+		</name>
+		<questiontext>
+			<text> Una sola carga axial de magnitud P = 10 kips se aplica al extremo C de la 
+        varilla de acero ABC. Si se sabe que E = 50x10^6psi, determine el diámetro 
+        d de la porción BC para el cual la deflexión del punto C será 0.05 in. 
+
+        &lt;img src=&quot;https://i.ibb.co/WsvFPM7/IMG3.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.466210823052668</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.233105411526334</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.217692763846035</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.000466210823052668</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>4.66210823052668e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro final</text>
+		</name>
+		<questiontext>
+			<text> Una sola carga axial de magnitud P = 10 kips se aplica al extremo C de la 
+        varilla de acero ABC. Si se sabe que E = 60x10^6psi, determine el diámetro 
+        d de la porción BC para el cual la deflexión del punto C será 0.05 in. 
+
+        &lt;img src=&quot;https://i.ibb.co/WsvFPM7/IMG3.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.419160987749280</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.209580493874640</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.195723285277026</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.000419160987749280</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>4.19160987749279e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro final</text>
+		</name>
+		<questiontext>
+			<text> Una sola carga axial de magnitud P = 14 kips se aplica al extremo C de la 
+        varilla de acero ABC. Si se sabe que E = 20x10^6psi, determine el diámetro 
+        d de la porción BC para el cual la deflexión del punto C será 0.05 in. 
+
+        &lt;img src=&quot;https://i.ibb.co/WsvFPM7/IMG3.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>1.19098574637949</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.595492873189743</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.556119605145446</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.00119098574637949</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>1.19098574637949e-9</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro final</text>
+		</name>
+		<questiontext>
+			<text> Una sola carga axial de magnitud P = 14 kips se aplica al extremo C de la 
+        varilla de acero ABC. Si se sabe que E = 30x10^6psi, determine el diámetro 
+        d de la porción BC para el cual la deflexión del punto C será 0.05 in. 
+
+        &lt;img src=&quot;https://i.ibb.co/WsvFPM7/IMG3.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.820841798068567</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.410420899034284</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.383284365926675</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.000820841798068567</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>8.20841798068567e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro final</text>
+		</name>
+		<questiontext>
+			<text> Una sola carga axial de magnitud P = 14 kips se aplica al extremo C de la 
+        varilla de acero ABC. Si se sabe que E = 40x10^6psi, determine el diámetro 
+        d de la porción BC para el cual la deflexión del punto C será 0.05 in. 
+
+        &lt;img src=&quot;https://i.ibb.co/WsvFPM7/IMG3.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.664701164238989</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.332350582119495</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.310375963877003</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.000664701164238989</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>6.64701164238989e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro final</text>
+		</name>
+		<questiontext>
+			<text> Una sola carga axial de magnitud P = 14 kips se aplica al extremo C de la 
+        varilla de acero ABC. Si se sabe que E = 50x10^6psi, determine el diámetro 
+        d de la porción BC para el cual la deflexión del punto C será 0.05 in. 
+
+        &lt;img src=&quot;https://i.ibb.co/WsvFPM7/IMG3.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.573304508033848</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.286652254016924</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.267699153919429</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.000573304508033848</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>5.73304508033848e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro final</text>
+		</name>
+		<questiontext>
+			<text> Una sola carga axial de magnitud P = 14 kips se aplica al extremo C de la 
+        varilla de acero ABC. Si se sabe que E = 60x10^6psi, determine el diámetro 
+        d de la porción BC para el cual la deflexión del punto C será 0.05 in. 
+
+        &lt;img src=&quot;https://i.ibb.co/WsvFPM7/IMG3.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.511533662952502</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.255766831476251</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.238855838136208</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.000511533662952502</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>5.11533662952502e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro final</text>
+		</name>
+		<questiontext>
+			<text> Una sola carga axial de magnitud P = 18 kips se aplica al extremo C de la 
+        varilla de acero ABC. Si se sabe que E = 20x10^6psi, determine el diámetro 
+        d de la porción BC para el cual la deflexión del punto C será 0.05 in. 
+
+        &lt;img src=&quot;https://i.ibb.co/WsvFPM7/IMG3.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>1.66968207706548</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.834841038532738</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.779642359481452</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.00166968207706548</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>1.66968207706548e-9</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro final</text>
+		</name>
+		<questiontext>
+			<text> Una sola carga axial de magnitud P = 18 kips se aplica al extremo C de la 
+        varilla de acero ABC. Si se sabe que E = 30x10^6psi, determine el diámetro 
+        d de la porción BC para el cual la deflexión del punto C será 0.05 in. 
+
+        &lt;img src=&quot;https://i.ibb.co/WsvFPM7/IMG3.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>1.01812198524495</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.509060992622476</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.475402495911912</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.00101812198524495</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>1.01812198524495e-9</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro final</text>
+		</name>
+		<questiontext>
+			<text> Una sola carga axial de magnitud P = 18 kips se aplica al extremo C de la 
+        varilla de acero ABC. Si se sabe que E = 40x10^6psi, determine el diámetro 
+        d de la porción BC para el cual la deflexión del punto C será 0.05 in. 
+
+        &lt;img src=&quot;https://i.ibb.co/WsvFPM7/IMG3.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.797900118362024</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.398950059181012</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.372571964121229</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.000797900118362024</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>7.97900118362024e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro final</text>
+		</name>
+		<questiontext>
+			<text> Una sola carga axial de magnitud P = 18 kips se aplica al extremo C de la 
+        varilla de acero ABC. Si se sabe que E = 50x10^6psi, determine el diámetro 
+        d de la porción BC para el cual la deflexión del punto C será 0.05 in. 
+
+        &lt;img src=&quot;https://i.ibb.co/WsvFPM7/IMG3.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.677790545548563</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.338895272774281</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.316487927506800</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.000677790545548563</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>6.77790545548563e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro final</text>
+		</name>
+		<questiontext>
+			<text> Una sola carga axial de magnitud P = 18 kips se aplica al extremo C de la 
+        varilla de acero ABC. Si se sabe que E = 60x10^6psi, determine el diámetro 
+        d de la porción BC para el cual la deflexión del punto C será 0.05 in. 
+
+        &lt;img src=&quot;https://i.ibb.co/WsvFPM7/IMG3.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.599461643737748</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.299730821868874</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.279912982694130</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.000599461643737748</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>5.99461643737748e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro final</text>
+		</name>
+		<questiontext>
+			<text> Una sola carga axial de magnitud P = 22 kips se aplica al extremo C de la 
+        varilla de acero ABC. Si se sabe que E = 20x10^6psi, determine el diámetro 
+        d de la porción BC para el cual la deflexión del punto C será 0.05 in. 
+
+        &lt;img src=&quot;https://i.ibb.co/WsvFPM7/IMG3.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>2.68868682560471</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>1.34434341280236</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>1.25545705342021</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.00268868682560471</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>2.68868682560471e-9</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro final</text>
+		</name>
+		<questiontext>
+			<text> Una sola carga axial de magnitud P = 22 kips se aplica al extremo C de la 
+        varilla de acero ABC. Si se sabe que E = 30x10^6psi, determine el diámetro 
+        d de la porción BC para el cual la deflexión del punto C será 0.05 in. 
+
+        &lt;img src=&quot;https://i.ibb.co/WsvFPM7/IMG3.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>1.25573929832359</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.627869649161795</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.586355667876163</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.00125573929832359</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>1.25573929832359e-9</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro final</text>
+		</name>
+		<questiontext>
+			<text> Una sola carga axial de magnitud P = 22 kips se aplica al extremo C de la 
+        varilla de acero ABC. Si se sabe que E = 40x10^6psi, determine el diámetro 
+        d de la porción BC para el cual la deflexión del punto C será 0.05 in. 
+
+        &lt;img src=&quot;https://i.ibb.co/WsvFPM7/IMG3.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.940722798900789</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.470361399450394</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.439261673001862</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.000940722798900789</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>9.40722798900789e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro final</text>
+		</name>
+		<questiontext>
+			<text> Una sola carga axial de magnitud P = 22 kips se aplica al extremo C de la 
+        varilla de acero ABC. Si se sabe que E = 50x10^6psi, determine el diámetro 
+        d de la porción BC para el cual la deflexión del punto C será 0.05 in. 
+
+        &lt;img src=&quot;https://i.ibb.co/WsvFPM7/IMG3.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.784264871386516</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.392132435693258</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.366205113647047</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.000784264871386516</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>7.84264871386516e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro final</text>
+		</name>
+		<questiontext>
+			<text> Una sola carga axial de magnitud P = 22 kips se aplica al extremo C de la 
+        varilla de acero ABC. Si se sabe que E = 60x10^6psi, determine el diámetro 
+        d de la porción BC para el cual la deflexión del punto C será 0.05 in. 
+
+        &lt;img src=&quot;https://i.ibb.co/WsvFPM7/IMG3.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.686534134712291</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.343267067356145</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.320570664322138</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.000686534134712291</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>6.86534134712291e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro final</text>
+		</name>
+		<questiontext>
+			<text> Una sola carga axial de magnitud P = 26 kips se aplica al extremo C de la 
+        varilla de acero ABC. Si se sabe que E = 20x10^6psi, determine el diámetro 
+        d de la porción BC para el cual la deflexión del punto C será 0.05 in. 
+
+        &lt;img src=&quot;https://i.ibb.co/WsvFPM7/IMG3.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>8.38215858386963*I</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>4.19107929193481*I</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>3.91397020165746*I</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.00838215858386963*I</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>8.38215858386963e-9*I</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro final</text>
+		</name>
+		<questiontext>
+			<text> Una sola carga axial de magnitud P = 26 kips se aplica al extremo C de la 
+        varilla de acero ABC. Si se sabe que E = 30x10^6psi, determine el diámetro 
+        d de la porción BC para el cual la deflexión del punto C será 0.05 in. 
+
+        &lt;img src=&quot;https://i.ibb.co/WsvFPM7/IMG3.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>1.57073270001053</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.785366350005264</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.733438877479701</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.00157073270001053</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>1.57073270001053e-9</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro final</text>
+		</name>
+		<questiontext>
+			<text> Una sola carga axial de magnitud P = 26 kips se aplica al extremo C de la 
+        varilla de acero ABC. Si se sabe que E = 40x10^6psi, determine el diámetro 
+        d de la porción BC para el cual la deflexión del punto C será 0.05 in. 
+
+        &lt;img src=&quot;https://i.ibb.co/WsvFPM7/IMG3.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>1.10105193922304</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.550525969611520</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.514125858807920</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.00110105193922304</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>1.10105193922304e-9</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro final</text>
+		</name>
+		<questiontext>
+			<text> Una sola carga axial de magnitud P = 26 kips se aplica al extremo C de la 
+        varilla de acero ABC. Si se sabe que E = 50x10^6psi, determine el diámetro 
+        d de la porción BC para el cual la deflexión del punto C será 0.05 in. 
+
+        &lt;img src=&quot;https://i.ibb.co/WsvFPM7/IMG3.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.896430919871262</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.448215459935631</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.418579996204362</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.000896430919871262</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>8.96430919871262e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro final</text>
+		</name>
+		<questiontext>
+			<text> Una sola carga axial de magnitud P = 26 kips se aplica al extremo C de la 
+        varilla de acero ABC. Si se sabe que E = 60x10^6psi, determine el diámetro 
+        d de la porción BC para el cual la deflexión del punto C será 0.05 in. 
+
+        &lt;img src=&quot;https://i.ibb.co/WsvFPM7/IMG3.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.775224435251119</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.387612217625559</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.361983766927119</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.000775224435251119</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>7.75224435251119e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+</quiz>

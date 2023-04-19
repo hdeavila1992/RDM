@@ -1,0 +1,1328 @@
+<?xml version="1.0" ?>
+<quiz>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de reacciones1</text>
+		</name>
+		<questiontext>
+			<text> Dos varillas cilíndricas, una de acero y la otra de latón, se unen en 
+        C y están restringidas por soportes rígidos en A y en E. Para la 
+        carga mostrada y sabiendo que Es = 190 GPa y Eb = 95 GPa, determine 
+        a) las reacciones en A y en E,
+        b) la deflexión del punto C.
+
+        &lt;img src=&quot;https://i.ibb.co/30q29mD/IMG6.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt; 
+ </text>
+		</questiontext>
+		<answer fraction="100">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63384.6153846154, 36615.3846153846] Newtons y 4.94862333176420e-5 metros</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[126769.230769231, 73230.7692307691] Newtons y 9.89724666352841e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[135744.492307692, 78415.5076923076] Newtons y 0.000105979717273062 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63384615.3846154, 36615384.6153845] Newtons y 0.0494862333176420 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[6.33846153846154e-5, 3.66153846153846e-5] Newtons y 4.94862333176420e-14 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de reacciones2</text>
+		</name>
+		<questiontext>
+			<text> Dos varillas cilíndricas, una de acero y la otra de latón, se unen en 
+        C y están restringidas por soportes rígidos en A y en E. Para la 
+        carga mostrada y sabiendo que Es = 190 GPa y Eb = 90 GPa, determine 
+        a) las reacciones en A y en E,
+        b) la deflexión del punto C.
+
+        &lt;img src=&quot;https://i.ibb.co/30q29mD/IMG6.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt; 
+ </text>
+		</questiontext>
+		<answer fraction="100">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[64009.4007050529, 35990.5992949471] Newtons y 5.02712675712121e-5 metros</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[128018.801410106, 71981.1985898941] Newtons y 0.000100542535142424 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[137082.532549941, 77077.4674500587] Newtons y 0.000107660946630508 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[64009400.7050529, 35990599.2949471] Newtons y 0.0502712675712121 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[6.40094007050529e-5, 3.59905992949471e-5] Newtons y 5.02712675712121e-14 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de reacciones3</text>
+		</name>
+		<questiontext>
+			<text> Dos varillas cilíndricas, una de acero y la otra de latón, se unen en 
+        C y están restringidas por soportes rígidos en A y en E. Para la 
+        carga mostrada y sabiendo que Es = 190 GPa y Eb = 100 GPa, determine 
+        a) las reacciones en A y en E,
+        b) la deflexión del punto C.
+
+        &lt;img src=&quot;https://i.ibb.co/30q29mD/IMG6.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt; 
+ </text>
+		</questiontext>
+		<answer fraction="100">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[62779.0432801822, 37220.9567198178] Newtons y 4.87253402085438e-5 metros</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63384.6153846154, 36615.3846153846] Newtons y 4.94862333176420e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[134447.599088838, 79712.4009111617] Newtons y 0.000104350188590617 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[62779043.2801822, 37220956.7198178] Newtons y 0.0487253402085438 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[6.27790432801822e-5, 3.72209567198178e-5] Newtons y 4.87253402085438e-14 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de reacciones4</text>
+		</name>
+		<questiontext>
+			<text> Dos varillas cilíndricas, una de acero y la otra de latón, se unen en 
+        C y están restringidas por soportes rígidos en A y en E. Para la 
+        carga mostrada y sabiendo que Es = 190 GPa y Eb = 105 GPa, determine 
+        a) las reacciones en A y en E,
+        b) la deflexión del punto C.
+
+        &lt;img src=&quot;https://i.ibb.co/30q29mD/IMG6.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt; 
+ </text>
+		</questiontext>
+		<answer fraction="100">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[62191.8115535613, 37808.1884464387] Newtons y 4.79874915346061e-5 metros</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63384.6153846154, 36615.3846153846] Newtons y 4.94862333176420e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[133189.983623107, 80970.0163768931] Newtons y 0.000102770011870512 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[62191811.5535613, 37808188.4464387] Newtons y 0.0479874915346061 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[6.21918115535613e-5, 3.78081884464387e-5] Newtons y 4.79874915346061e-14 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de reacciones5</text>
+		</name>
+		<questiontext>
+			<text> Dos varillas cilíndricas, una de acero y la otra de latón, se unen en 
+        C y están restringidas por soportes rígidos en A y en E. Para la 
+        carga mostrada y sabiendo que Es = 190 GPa y Eb = 110 GPa, determine 
+        a) las reacciones en A y en E,
+        b) la deflexión del punto C.
+
+        &lt;img src=&quot;https://i.ibb.co/30q29mD/IMG6.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt; 
+ </text>
+		</questiontext>
+		<answer fraction="100">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[61622.0994475138, 38377.9005524862] Newtons y 4.72716560255264e-5 metros</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63384.6153846154, 36615.3846153846] Newtons y 4.94862333176420e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[131969.888176795, 82190.1118232045] Newtons y 0.000101236978544267 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[61622099.4475138, 38377900.5524862] Newtons y 0.0472716560255264 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[6.16220994475138e-5, 3.83779005524862e-5] Newtons y 4.72716560255264e-14 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de reacciones6</text>
+		</name>
+		<questiontext>
+			<text> Dos varillas cilíndricas, una de acero y la otra de latón, se unen en 
+        C y están restringidas por soportes rígidos en A y en E. Para la 
+        carga mostrada y sabiendo que Es = 200 GPa y Eb = 95 GPa, determine 
+        a) las reacciones en A y en E,
+        b) la deflexión del punto C.
+
+        &lt;img src=&quot;https://i.ibb.co/30q29mD/IMG6.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt; 
+ </text>
+		</questiontext>
+		<answer fraction="100">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63977.6910206357, 36022.3089793643] Newtons y 4.77198535450099e-5 metros</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63384.6153846154, 36615.3846153846] Newtons y 4.94862333176420e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[137014.623089793, 77145.3769102065] Newtons y 0.000102196838351993 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63977691.0206357, 36022308.9793643] Newtons y 0.0477198535450099 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[6.39776910206357e-5, 3.60223089793643e-5] Newtons y 4.77198535450099e-14 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de reacciones7</text>
+		</name>
+		<questiontext>
+			<text> Dos varillas cilíndricas, una de acero y la otra de latón, se unen en 
+        C y están restringidas por soportes rígidos en A y en E. Para la 
+        carga mostrada y sabiendo que Es = 200 GPa y Eb = 90 GPa, determine 
+        a) las reacciones en A y en E,
+        b) la deflexión del punto C.
+
+        &lt;img src=&quot;https://i.ibb.co/30q29mD/IMG6.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt; 
+ </text>
+		</questiontext>
+		<answer fraction="100">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[64588.9014722537, 35411.0985277463] Newtons y 4.84494322798432e-5 metros</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63384.6153846154, 36615.3846153846] Newtons y 4.94862333176420e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[138323.591392979, 75836.4086070214] Newtons y 0.000103759304170512 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[64588901.4722537, 35411098.5277463] Newtons y 0.0484494322798432 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[6.45889014722537e-5, 3.54110985277463e-5] Newtons y 4.84494322798432e-14 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de reacciones8</text>
+		</name>
+		<questiontext>
+			<text> Dos varillas cilíndricas, una de acero y la otra de latón, se unen en 
+        C y están restringidas por soportes rígidos en A y en E. Para la 
+        carga mostrada y sabiendo que Es = 200 GPa y Eb = 100 GPa, determine 
+        a) las reacciones en A y en E,
+        b) la deflexión del punto C.
+
+        &lt;img src=&quot;https://i.ibb.co/30q29mD/IMG6.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt; 
+ </text>
+		</questiontext>
+		<answer fraction="100">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63384.6153846154, 36615.3846153846] Newtons y 4.70119216517599e-5 metros</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63384.6153846154, 36615.3846153846] Newtons y 4.94862333176420e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[135744.492307692, 78415.5076923077] Newtons y 0.000100680731409409 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63384615.3846154, 36615384.6153846] Newtons y 0.0470119216517599 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[6.33846153846154e-5, 3.66153846153846e-5] Newtons y 4.70119216517599e-14 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de reacciones9</text>
+		</name>
+		<questiontext>
+			<text> Dos varillas cilíndricas, una de acero y la otra de latón, se unen en 
+        C y están restringidas por soportes rígidos en A y en E. Para la 
+        carga mostrada y sabiendo que Es = 200 GPa y Eb = 105 GPa, determine 
+        a) las reacciones en A y en E,
+        b) la deflexión del punto C.
+
+        &lt;img src=&quot;https://i.ibb.co/30q29mD/IMG6.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt; 
+ </text>
+		</questiontext>
+		<answer fraction="100">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[62808.8792636707, 37191.1207363293] Newtons y 4.63246872800231e-5 metros</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63384.6153846154, 36615.3846153846] Newtons y 4.94862333176420e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[134511.495831077, 79648.5041689228] Newtons y 9.92089502788975e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[62808879.2636707, 37191120.7363293] Newtons y 0.0463246872800231 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[6.28088792636707e-5, 3.71911207363293e-5] Newtons y 4.63246872800231e-14 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de reacciones10</text>
+		</name>
+		<questiontext>
+			<text> Dos varillas cilíndricas, una de acero y la otra de latón, se unen en 
+        C y están restringidas por soportes rígidos en A y en E. Para la 
+        carga mostrada y sabiendo que Es = 200 GPa y Eb = 110 GPa, determine 
+        a) las reacciones en A y en E,
+        b) la deflexión del punto C.
+
+        &lt;img src=&quot;https://i.ibb.co/30q29mD/IMG6.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt; 
+ </text>
+		</questiontext>
+		<answer fraction="100">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[62249.7331910352, 37750.2668089648] Newtons y 4.56572558197454e-5 metros</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63384.6153846154, 36615.3846153846] Newtons y 4.94862333176420e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[133314.028601921, 80845.9713980791] Newtons y 9.77795790635667e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[62249733.1910352, 37750266.8089648] Newtons y 0.0456572558197454 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[6.22497331910352e-5, 3.77502668089648e-5] Newtons y 4.56572558197454e-14 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de reacciones11</text>
+		</name>
+		<questiontext>
+			<text> Dos varillas cilíndricas, una de acero y la otra de latón, se unen en 
+        C y están restringidas por soportes rígidos en A y en E. Para la 
+        carga mostrada y sabiendo que Es = 210 GPa y Eb = 95 GPa, determine 
+        a) las reacciones en A y en E,
+        b) la deflexión del punto C.
+
+        &lt;img src=&quot;https://i.ibb.co/30q29mD/IMG6.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt; 
+ </text>
+		</questiontext>
+		<answer fraction="100">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[64529.8869143780, 35470.1130856220] Newtons y 4.60752274669913e-5 metros</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63384.6153846154, 36615.3846153846] Newtons y 4.94862333176420e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[138197.205815832, 75962.7941841681] Newtons y 9.86747071433085e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[64529886.9143780, 35470113.0856220] Newtons y 0.0460752274669913 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[6.45298869143780e-5, 3.54701130856220e-5] Newtons y 4.60752274669913e-14 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de reacciones12</text>
+		</name>
+		<questiontext>
+			<text> Dos varillas cilíndricas, una de acero y la otra de latón, se unen en 
+        C y están restringidas por soportes rígidos en A y en E. Para la 
+        carga mostrada y sabiendo que Es = 210 GPa y Eb = 90 GPa, determine 
+        a) las reacciones en A y en E,
+        b) la deflexión del punto C.
+
+        &lt;img src=&quot;https://i.ibb.co/30q29mD/IMG6.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt; 
+ </text>
+		</questiontext>
+		<answer fraction="100">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[65127.8688524591, 34872.1311475409] Newtons y 4.67550259050290e-5 metros</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63384.6153846154, 36615.3846153846] Newtons y 4.94862333176420e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[139477.843934426, 74682.1560655736] Newtons y 0.000100130563478210 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[65127868.8524591, 34872131.1475409] Newtons y 0.0467550259050290 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[6.51278688524591e-5, 3.48721311475409e-5] Newtons y 4.67550259050290e-14 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de reacciones13</text>
+		</name>
+		<questiontext>
+			<text> Dos varillas cilíndricas, una de acero y la otra de latón, se unen en 
+        C y están restringidas por soportes rígidos en A y en E. Para la 
+        carga mostrada y sabiendo que Es = 210 GPa y Eb = 100 GPa, determine 
+        a) las reacciones en A y en E,
+        b) la deflexión del punto C.
+
+        &lt;img src=&quot;https://i.ibb.co/30q29mD/IMG6.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt; 
+ </text>
+		</questiontext>
+		<answer fraction="100">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63949.0445859873, 36050.9554140127] Newtons y 4.54149136975600e-5 metros</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63384.6153846154, 36615.3846153846] Newtons y 4.94862333176420e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[136953.273885350, 77206.7261146496] Newtons y 9.72605791746945e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63949044.5859873, 36050955.4140127] Newtons y 0.0454149136975600 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[6.39490445859873e-5, 3.60509554140127e-5] Newtons y 4.54149136975600e-14 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de reacciones14</text>
+		</name>
+		<questiontext>
+			<text> Dos varillas cilíndricas, una de acero y la otra de latón, se unen en 
+        C y están restringidas por soportes rígidos en A y en E. Para la 
+        carga mostrada y sabiendo que Es = 210 GPa y Eb = 105 GPa, determine 
+        a) las reacciones en A y en E,
+        b) la deflexión del punto C.
+
+        &lt;img src=&quot;https://i.ibb.co/30q29mD/IMG6.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt; 
+ </text>
+		</questiontext>
+		<answer fraction="100">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63384.6153846153, 36615.3846153847] Newtons y 4.47732587159617e-5 metros</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63384.6153846154, 36615.3846153846] Newtons y 4.94862333176420e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[135744.492307692, 78415.5076923079] Newtons y 9.58864108661035e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63384615.3846153, 36615384.6153847] Newtons y 0.0447732587159617 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[6.33846153846153e-5, 3.66153846153847e-5] Newtons y 4.47732587159617e-14 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de reacciones15</text>
+		</name>
+		<questiontext>
+			<text> Dos varillas cilíndricas, una de acero y la otra de latón, se unen en 
+        C y están restringidas por soportes rígidos en A y en E. Para la 
+        carga mostrada y sabiendo que Es = 210 GPa y Eb = 110 GPa, determine 
+        a) las reacciones en A y en E,
+        b) la deflexión del punto C.
+
+        &lt;img src=&quot;https://i.ibb.co/30q29mD/IMG6.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt; 
+ </text>
+		</questiontext>
+		<answer fraction="100">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[62835.9133126935, 37164.0866873065] Newtons y 4.41494826657393e-5 metros</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63384.6153846154, 36615.3846153846] Newtons y 4.94862333176420e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[134569.391950464, 79590.6080495357] Newtons y 9.45505320769474e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[62835913.3126935, 37164086.6873065] Newtons y 0.0441494826657393 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[6.28359133126935e-5, 3.71640866873065e-5] Newtons y 4.41494826657393e-14 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de reacciones16</text>
+		</name>
+		<questiontext>
+			<text> Dos varillas cilíndricas, una de acero y la otra de latón, se unen en 
+        C y están restringidas por soportes rígidos en A y en E. Para la 
+        carga mostrada y sabiendo que Es = 215 GPa y Eb = 95 GPa, determine 
+        a) las reacciones en A y en E,
+        b) la deflexión del punto C.
+
+        &lt;img src=&quot;https://i.ibb.co/30q29mD/IMG6.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt; 
+ </text>
+		</questiontext>
+		<answer fraction="100">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[64791.9534145051, 35208.0465854949] Newtons y 4.52947048206474e-5 metros</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63384.6153846154, 36615.3846153846] Newtons y 4.94862333176420e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[138758.447432504, 75401.5525674959] Newtons y 9.70031398438985e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[64791953.4145051, 35208046.5854949] Newtons y 0.0452947048206474 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[6.47919534145051e-5, 3.52080465854949e-5] Newtons y 4.52947048206474e-14 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de reacciones17</text>
+		</name>
+		<questiontext>
+			<text> Dos varillas cilíndricas, una de acero y la otra de latón, se unen en 
+        C y están restringidas por soportes rígidos en A y en E. Para la 
+        carga mostrada y sabiendo que Es = 215 GPa y Eb = 90 GPa, determine 
+        a) las reacciones en A y en E,
+        b) la deflexión del punto C.
+
+        &lt;img src=&quot;https://i.ibb.co/30q29mD/IMG6.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt; 
+ </text>
+		</questiontext>
+		<answer fraction="100">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[65383.4586466165, 34616.5413533835] Newtons y 4.59515023663817e-5 metros</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63384.6153846154, 36615.3846153846] Newtons y 4.94862333176420e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[140025.215037594, 74134.7849624061] Newtons y 9.84097374678431e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[65383458.6466165, 34616541.3533835] Newtons y 0.0459515023663817 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[6.53834586466165e-5, 3.46165413533835e-5] Newtons y 4.59515023663817e-14 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de reacciones18</text>
+		</name>
+		<questiontext>
+			<text> Dos varillas cilíndricas, una de acero y la otra de latón, se unen en 
+        C y están restringidas por soportes rígidos en A y en E. Para la 
+        carga mostrada y sabiendo que Es = 215 GPa y Eb = 100 GPa, determine 
+        a) las reacciones en A y en E,
+        b) la deflexión del punto C.
+
+        &lt;img src=&quot;https://i.ibb.co/30q29mD/IMG6.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt; 
+ </text>
+		</questiontext>
+		<answer fraction="100">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[64217.1189979122, 35782.8810020878] Newtons y 4.46564182704607e-5 metros</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63384.6153846154, 36615.3846153846] Newtons y 4.94862333176420e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[137527.382045929, 76632.6179540712] Newtons y 9.56361853680186e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[64217118.9979122, 35782881.0020878] Newtons y 0.0446564182704607 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[6.42171189979122e-5, 3.57828810020878e-5] Newtons y 4.46564182704607e-14 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de reacciones19</text>
+		</name>
+		<questiontext>
+			<text> Dos varillas cilíndricas, una de acero y la otra de latón, se unen en 
+        C y están restringidas por soportes rígidos en A y en E. Para la 
+        carga mostrada y sabiendo que Es = 215 GPa y Eb = 105 GPa, determine 
+        a) las reacciones en A y en E,
+        b) la deflexión del punto C.
+
+        &lt;img src=&quot;https://i.ibb.co/30q29mD/IMG6.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt; 
+ </text>
+		</questiontext>
+		<answer fraction="100">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63658.2604220278, 36341.7395779722] Newtons y 4.40358710273819e-5 metros</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63384.6153846154, 36615.3846153846] Newtons y 4.94862333176420e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[136330.530519815, 77829.4694801852] Newtons y 9.43072213922410e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63658260.4220278, 36341739.5779722] Newtons y 0.0440358710273819 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[6.36582604220278e-5, 3.63417395779722e-5] Newtons y 4.40358710273819e-14 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de reacciones20</text>
+		</name>
+		<questiontext>
+			<text> Dos varillas cilíndricas, una de acero y la otra de latón, se unen en 
+        C y están restringidas por soportes rígidos en A y en E. Para la 
+        carga mostrada y sabiendo que Es = 215 GPa y Eb = 110 GPa, determine 
+        a) las reacciones en A y en E,
+        b) la deflexión del punto C.
+
+        &lt;img src=&quot;https://i.ibb.co/30q29mD/IMG6.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt; 
+ </text>
+		</questiontext>
+		<answer fraction="100">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63114.7208121828, 36885.2791878172] Newtons y 4.34323337087325e-5 metros</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63384.6153846154, 36615.3846153846] Newtons y 4.94862333176420e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[135166.486091371, 78993.5139086293] Newtons y 9.30146858706216e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63114720.8121828, 36885279.1878172] Newtons y 0.0434323337087325 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[6.31147208121828e-5, 3.68852791878172e-5] Newtons y 4.34323337087325e-14 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de reacciones21</text>
+		</name>
+		<questiontext>
+			<text> Dos varillas cilíndricas, una de acero y la otra de latón, se unen en 
+        C y están restringidas por soportes rígidos en A y en E. Para la 
+        carga mostrada y sabiendo que Es = 220 GPa y Eb = 95 GPa, determine 
+        a) las reacciones en A y en E,
+        b) la deflexión del punto C.
+
+        &lt;img src=&quot;https://i.ibb.co/30q29mD/IMG6.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt; 
+ </text>
+		</questiontext>
+		<answer fraction="100">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[65045.2889120250, 34954.7110879750] Newtons y 4.45401860521619e-5 metros</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63384.6153846154, 36615.3846153846] Newtons y 4.94862333176420e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[139300.990733993, 74859.0092660072] Newtons y 9.53872624493100e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[65045288.9120250, 34954711.0879750] Newtons y 0.0445401860521619 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[6.50452889120250e-5, 3.49547110879750e-5] Newtons y 4.45401860521619e-14 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de reacciones22</text>
+		</name>
+		<questiontext>
+			<text> Dos varillas cilíndricas, una de acero y la otra de latón, se unen en 
+        C y están restringidas por soportes rígidos en A y en E. Para la 
+        carga mostrada y sabiendo que Es = 220 GPa y Eb = 90 GPa, determine 
+        a) las reacciones en A y en E,
+        b) la deflexión del punto C.
+
+        &lt;img src=&quot;https://i.ibb.co/30q29mD/IMG6.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt; 
+ </text>
+		</questiontext>
+		<answer fraction="100">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[65630.4118268216, 34369.5881731784] Newtons y 4.51751306262951e-5 metros</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63384.6153846154, 36615.3846153846] Newtons y 4.94862333176420e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[140554.089968321, 73605.9100316789] Newtons y 9.67470597492737e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[65630411.8268216, 34369588.1731784] Newtons y 0.0451751306262951 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[6.56304118268216e-5, 3.43695881731784e-5] Newtons y 4.51751306262951e-14 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de reacciones23</text>
+		</name>
+		<questiontext>
+			<text> Dos varillas cilíndricas, una de acero y la otra de latón, se unen en 
+        C y están restringidas por soportes rígidos en A y en E. Para la 
+        carga mostrada y sabiendo que Es = 220 GPa y Eb = 100 GPa, determine 
+        a) las reacciones en A y en E,
+        b) la deflexión del punto C.
+
+        &lt;img src=&quot;https://i.ibb.co/30q29mD/IMG6.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt; 
+ </text>
+		</questiontext>
+		<answer fraction="100">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[64476.3860369610, 35523.6139630390] Newtons y 4.39228426109871e-5 metros</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63384.6153846154, 36615.3846153846] Newtons y 4.94862333176420e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[138082.628336756, 76077.3716632444] Newtons y 9.40651597356900e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[64476386.0369610, 35523613.9630390] Newtons y 0.0439228426109871 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[6.44763860369610e-5, 3.55236139630390e-5] Newtons y 4.39228426109871e-14 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de reacciones24</text>
+		</name>
+		<questiontext>
+			<text> Dos varillas cilíndricas, una de acero y la otra de latón, se unen en 
+        C y están restringidas por soportes rígidos en A y en E. Para la 
+        carga mostrada y sabiendo que Es = 220 GPa y Eb = 105 GPa, determine 
+        a) las reacciones en A y en E,
+        b) la deflexión del punto C.
+
+        &lt;img src=&quot;https://i.ibb.co/30q29mD/IMG6.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt; 
+ </text>
+		</questiontext>
+		<answer fraction="100">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63923.0379746834, 36076.9620253166] Newtons y 4.33223784335203e-5 metros</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63384.6153846154, 36615.3846153846] Newtons y 4.94862333176420e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[136897.578126582, 77262.4218734180] Newtons y 9.27792056532271e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63923037.9746834, 36076962.0253166] Newtons y 0.0433223784335203 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[6.39230379746834e-5, 3.60769620253166e-5] Newtons y 4.33223784335203e-14 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de reacciones25</text>
+		</name>
+		<questiontext>
+			<text> Dos varillas cilíndricas, una de acero y la otra de latón, se unen en 
+        C y están restringidas por soportes rígidos en A y en E. Para la 
+        carga mostrada y sabiendo que Es = 220 GPa y Eb = 110 GPa, determine 
+        a) las reacciones en A y en E,
+        b) la deflexión del punto C.
+
+        &lt;img src=&quot;https://i.ibb.co/30q29mD/IMG6.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt; 
+ </text>
+		</questiontext>
+		<answer fraction="100">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63384.6153846153, 36615.3846153847] Newtons y 4.27381105925089e-5 metros</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63384.6153846154, 36615.3846153846] Newtons y 4.94862333176420e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[135744.492307692, 78415.5076923079] Newtons y 9.15279376449170e-5 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[63384615.3846153, 36615384.6153847] Newtons y 0.0427381105925089 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text> las reacciones en A, en E y el desplazamiento Delta de 'C' es:
+[6.33846153846153e-5, 3.66153846153847e-5] Newtons y 4.27381105925089e-14 metros</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+</quiz>

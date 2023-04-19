@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<quiz>
+	<question type="multichoice">
+		<name>
+			<text>Calculo de deformaciones</text>
+		</name>
+		<questiontext>
+			<text> Las dos porciones de la varilla ABC están hechas de un aluminio para el que 
+E =70GPa. Si se sabe que la magnitud de P es de4kN, encuentre a) el 
+valor de Q para que la deflexión en A sea cero, b) la deflexión correspondiente de B. 
+
+ &lt;img src=&quot;https://drive.google.com/file/d/1pneZF_seDfxVeWHitSeIibdcKQzRIrwy/view?usp=share_link&quot; alt=&quot;&quot; width=&quot;449&quot; height=&quot;387&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>Esta esta biern</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>Mal</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>Mal</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>Mu mal papa</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+</quiz>

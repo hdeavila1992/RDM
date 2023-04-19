@@ -1,0 +1,1178 @@
+<?xml version="1.0" ?>
+<quiz>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro</text>
+		</name>
+		<questiontext>
+			<text> La varilla BD está hecha de acero (E = 20X10^6psi) y se utiliza para reforzar 
+        al elemento axialmente comprimido ABC. La máxima fuerza que puede desarrollarse en el elemento BD es de 0.02P.
+        Si el esfuerzo no debe exceder 12ksi y el máximo cambio en longitud de BD no debe sobrepasar 0.001 veces 
+        la longitud de ABC, determine el diámetro mínimo que puede utilizarse para 
+        la varilla del elemento BD. 
+
+        &lt;img src=&quot;https://i.ibb.co/V32ZFnW/IMG4.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.525231918323660</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>1.05046383664732</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>1.12483667628195</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>525.231918323660</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>5.25231918323660e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro</text>
+		</name>
+		<questiontext>
+			<text> La varilla BD está hecha de acero (E = 20X10^6psi) y se utiliza para reforzar 
+        al elemento axialmente comprimido ABC. La máxima fuerza que puede desarrollarse en el elemento BD es de 0.02P.
+        Si el esfuerzo no debe exceder 16ksi y el máximo cambio en longitud de BD no debe sobrepasar 0.001 veces 
+        la longitud de ABC, determine el diámetro mínimo que puede utilizarse para 
+        la varilla del elemento BD. 
+
+        &lt;img src=&quot;https://i.ibb.co/V32ZFnW/IMG4.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.454864184146723</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.909728368293446</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.974137136768622</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>454.864184146723</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>4.54864184146723e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro</text>
+		</name>
+		<questiontext>
+			<text> La varilla BD está hecha de acero (E = 20X10^6psi) y se utiliza para reforzar 
+        al elemento axialmente comprimido ABC. La máxima fuerza que puede desarrollarse en el elemento BD es de 0.02P.
+        Si el esfuerzo no debe exceder 20ksi y el máximo cambio en longitud de BD no debe sobrepasar 0.001 veces 
+        la longitud de ABC, determine el diámetro mínimo que puede utilizarse para 
+        la varilla del elemento BD. 
+
+        &lt;img src=&quot;https://i.ibb.co/V32ZFnW/IMG4.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.406842894512822</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.813685789025644</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.871294742888659</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>406.842894512822</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>4.06842894512822e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro</text>
+		</name>
+		<questiontext>
+			<text> La varilla BD está hecha de acero (E = 20X10^6psi) y se utiliza para reforzar 
+        al elemento axialmente comprimido ABC. La máxima fuerza que puede desarrollarse en el elemento BD es de 0.02P.
+        Si el esfuerzo no debe exceder 24ksi y el máximo cambio en longitud de BD no debe sobrepasar 0.001 veces 
+        la longitud de ABC, determine el diámetro mínimo que puede utilizarse para 
+        la varilla del elemento BD. 
+
+        &lt;img src=&quot;https://i.ibb.co/V32ZFnW/IMG4.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.371395051142279</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.742790102284558</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.795379641526305</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>371.395051142279</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>3.71395051142279e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro</text>
+		</name>
+		<questiontext>
+			<text> La varilla BD está hecha de acero (E = 20X10^6psi) y se utiliza para reforzar 
+        al elemento axialmente comprimido ABC. La máxima fuerza que puede desarrollarse en el elemento BD es de 0.02P.
+        Si el esfuerzo no debe exceder 28ksi y el máximo cambio en longitud de BD no debe sobrepasar 0.001 veces 
+        la longitud de ABC, determine el diámetro mínimo que puede utilizarse para 
+        la varilla del elemento BD. 
+
+        &lt;img src=&quot;https://i.ibb.co/V32ZFnW/IMG4.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.343845003303577</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.687690006607153</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.736378459074939</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>343.845003303577</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>3.43845003303577e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro</text>
+		</name>
+		<questiontext>
+			<text> La varilla BD está hecha de acero (E = 30X10^6psi) y se utiliza para reforzar 
+        al elemento axialmente comprimido ABC. La máxima fuerza que puede desarrollarse en el elemento BD es de 0.02P.
+        Si el esfuerzo no debe exceder 12ksi y el máximo cambio en longitud de BD no debe sobrepasar 0.001 veces 
+        la longitud de ABC, determine el diámetro mínimo que puede utilizarse para 
+        la varilla del elemento BD. 
+
+        &lt;img src=&quot;https://i.ibb.co/V32ZFnW/IMG4.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.525231918323660</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>1.05046383664732</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>1.12483667628195</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>525.231918323660</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>5.25231918323660e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro</text>
+		</name>
+		<questiontext>
+			<text> La varilla BD está hecha de acero (E = 30X10^6psi) y se utiliza para reforzar 
+        al elemento axialmente comprimido ABC. La máxima fuerza que puede desarrollarse en el elemento BD es de 0.02P.
+        Si el esfuerzo no debe exceder 16ksi y el máximo cambio en longitud de BD no debe sobrepasar 0.001 veces 
+        la longitud de ABC, determine el diámetro mínimo que puede utilizarse para 
+        la varilla del elemento BD. 
+
+        &lt;img src=&quot;https://i.ibb.co/V32ZFnW/IMG4.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.454864184146723</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.909728368293446</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.974137136768622</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>454.864184146723</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>4.54864184146723e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro</text>
+		</name>
+		<questiontext>
+			<text> La varilla BD está hecha de acero (E = 30X10^6psi) y se utiliza para reforzar 
+        al elemento axialmente comprimido ABC. La máxima fuerza que puede desarrollarse en el elemento BD es de 0.02P.
+        Si el esfuerzo no debe exceder 20ksi y el máximo cambio en longitud de BD no debe sobrepasar 0.001 veces 
+        la longitud de ABC, determine el diámetro mínimo que puede utilizarse para 
+        la varilla del elemento BD. 
+
+        &lt;img src=&quot;https://i.ibb.co/V32ZFnW/IMG4.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.406842894512822</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.813685789025644</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.871294742888659</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>406.842894512822</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>4.06842894512822e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro</text>
+		</name>
+		<questiontext>
+			<text> La varilla BD está hecha de acero (E = 30X10^6psi) y se utiliza para reforzar 
+        al elemento axialmente comprimido ABC. La máxima fuerza que puede desarrollarse en el elemento BD es de 0.02P.
+        Si el esfuerzo no debe exceder 24ksi y el máximo cambio en longitud de BD no debe sobrepasar 0.001 veces 
+        la longitud de ABC, determine el diámetro mínimo que puede utilizarse para 
+        la varilla del elemento BD. 
+
+        &lt;img src=&quot;https://i.ibb.co/V32ZFnW/IMG4.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.371395051142279</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.742790102284558</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.795379641526305</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>371.395051142279</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>3.71395051142279e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro</text>
+		</name>
+		<questiontext>
+			<text> La varilla BD está hecha de acero (E = 30X10^6psi) y se utiliza para reforzar 
+        al elemento axialmente comprimido ABC. La máxima fuerza que puede desarrollarse en el elemento BD es de 0.02P.
+        Si el esfuerzo no debe exceder 28ksi y el máximo cambio en longitud de BD no debe sobrepasar 0.001 veces 
+        la longitud de ABC, determine el diámetro mínimo que puede utilizarse para 
+        la varilla del elemento BD. 
+
+        &lt;img src=&quot;https://i.ibb.co/V32ZFnW/IMG4.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.343845003303577</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.687690006607153</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.736378459074939</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>343.845003303577</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>3.43845003303577e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro</text>
+		</name>
+		<questiontext>
+			<text> La varilla BD está hecha de acero (E = 40X10^6psi) y se utiliza para reforzar 
+        al elemento axialmente comprimido ABC. La máxima fuerza que puede desarrollarse en el elemento BD es de 0.02P.
+        Si el esfuerzo no debe exceder 12ksi y el máximo cambio en longitud de BD no debe sobrepasar 0.001 veces 
+        la longitud de ABC, determine el diámetro mínimo que puede utilizarse para 
+        la varilla del elemento BD. 
+
+        &lt;img src=&quot;https://i.ibb.co/V32ZFnW/IMG4.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.525231918323660</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>1.05046383664732</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>1.12483667628195</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>525.231918323660</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>5.25231918323660e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro</text>
+		</name>
+		<questiontext>
+			<text> La varilla BD está hecha de acero (E = 40X10^6psi) y se utiliza para reforzar 
+        al elemento axialmente comprimido ABC. La máxima fuerza que puede desarrollarse en el elemento BD es de 0.02P.
+        Si el esfuerzo no debe exceder 16ksi y el máximo cambio en longitud de BD no debe sobrepasar 0.001 veces 
+        la longitud de ABC, determine el diámetro mínimo que puede utilizarse para 
+        la varilla del elemento BD. 
+
+        &lt;img src=&quot;https://i.ibb.co/V32ZFnW/IMG4.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.454864184146723</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.909728368293446</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.974137136768622</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>454.864184146723</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>4.54864184146723e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro</text>
+		</name>
+		<questiontext>
+			<text> La varilla BD está hecha de acero (E = 40X10^6psi) y se utiliza para reforzar 
+        al elemento axialmente comprimido ABC. La máxima fuerza que puede desarrollarse en el elemento BD es de 0.02P.
+        Si el esfuerzo no debe exceder 20ksi y el máximo cambio en longitud de BD no debe sobrepasar 0.001 veces 
+        la longitud de ABC, determine el diámetro mínimo que puede utilizarse para 
+        la varilla del elemento BD. 
+
+        &lt;img src=&quot;https://i.ibb.co/V32ZFnW/IMG4.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.406842894512822</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.813685789025644</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.871294742888659</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>406.842894512822</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>4.06842894512822e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro</text>
+		</name>
+		<questiontext>
+			<text> La varilla BD está hecha de acero (E = 40X10^6psi) y se utiliza para reforzar 
+        al elemento axialmente comprimido ABC. La máxima fuerza que puede desarrollarse en el elemento BD es de 0.02P.
+        Si el esfuerzo no debe exceder 24ksi y el máximo cambio en longitud de BD no debe sobrepasar 0.001 veces 
+        la longitud de ABC, determine el diámetro mínimo que puede utilizarse para 
+        la varilla del elemento BD. 
+
+        &lt;img src=&quot;https://i.ibb.co/V32ZFnW/IMG4.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.371395051142279</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.742790102284558</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.795379641526305</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>371.395051142279</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>3.71395051142279e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro</text>
+		</name>
+		<questiontext>
+			<text> La varilla BD está hecha de acero (E = 40X10^6psi) y se utiliza para reforzar 
+        al elemento axialmente comprimido ABC. La máxima fuerza que puede desarrollarse en el elemento BD es de 0.02P.
+        Si el esfuerzo no debe exceder 28ksi y el máximo cambio en longitud de BD no debe sobrepasar 0.001 veces 
+        la longitud de ABC, determine el diámetro mínimo que puede utilizarse para 
+        la varilla del elemento BD. 
+
+        &lt;img src=&quot;https://i.ibb.co/V32ZFnW/IMG4.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.343845003303577</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.687690006607153</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.736378459074939</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>343.845003303577</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>3.43845003303577e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro</text>
+		</name>
+		<questiontext>
+			<text> La varilla BD está hecha de acero (E = 50X10^6psi) y se utiliza para reforzar 
+        al elemento axialmente comprimido ABC. La máxima fuerza que puede desarrollarse en el elemento BD es de 0.02P.
+        Si el esfuerzo no debe exceder 12ksi y el máximo cambio en longitud de BD no debe sobrepasar 0.001 veces 
+        la longitud de ABC, determine el diámetro mínimo que puede utilizarse para 
+        la varilla del elemento BD. 
+
+        &lt;img src=&quot;https://i.ibb.co/V32ZFnW/IMG4.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.525231918323660</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>1.05046383664732</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>1.12483667628195</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>525.231918323660</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>5.25231918323660e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro</text>
+		</name>
+		<questiontext>
+			<text> La varilla BD está hecha de acero (E = 50X10^6psi) y se utiliza para reforzar 
+        al elemento axialmente comprimido ABC. La máxima fuerza que puede desarrollarse en el elemento BD es de 0.02P.
+        Si el esfuerzo no debe exceder 16ksi y el máximo cambio en longitud de BD no debe sobrepasar 0.001 veces 
+        la longitud de ABC, determine el diámetro mínimo que puede utilizarse para 
+        la varilla del elemento BD. 
+
+        &lt;img src=&quot;https://i.ibb.co/V32ZFnW/IMG4.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.454864184146723</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.909728368293446</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.974137136768622</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>454.864184146723</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>4.54864184146723e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro</text>
+		</name>
+		<questiontext>
+			<text> La varilla BD está hecha de acero (E = 50X10^6psi) y se utiliza para reforzar 
+        al elemento axialmente comprimido ABC. La máxima fuerza que puede desarrollarse en el elemento BD es de 0.02P.
+        Si el esfuerzo no debe exceder 20ksi y el máximo cambio en longitud de BD no debe sobrepasar 0.001 veces 
+        la longitud de ABC, determine el diámetro mínimo que puede utilizarse para 
+        la varilla del elemento BD. 
+
+        &lt;img src=&quot;https://i.ibb.co/V32ZFnW/IMG4.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.406842894512822</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.813685789025644</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.871294742888659</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>406.842894512822</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>4.06842894512822e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro</text>
+		</name>
+		<questiontext>
+			<text> La varilla BD está hecha de acero (E = 50X10^6psi) y se utiliza para reforzar 
+        al elemento axialmente comprimido ABC. La máxima fuerza que puede desarrollarse en el elemento BD es de 0.02P.
+        Si el esfuerzo no debe exceder 24ksi y el máximo cambio en longitud de BD no debe sobrepasar 0.001 veces 
+        la longitud de ABC, determine el diámetro mínimo que puede utilizarse para 
+        la varilla del elemento BD. 
+
+        &lt;img src=&quot;https://i.ibb.co/V32ZFnW/IMG4.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.371395051142279</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.742790102284558</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.795379641526305</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>371.395051142279</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>3.71395051142279e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro</text>
+		</name>
+		<questiontext>
+			<text> La varilla BD está hecha de acero (E = 50X10^6psi) y se utiliza para reforzar 
+        al elemento axialmente comprimido ABC. La máxima fuerza que puede desarrollarse en el elemento BD es de 0.02P.
+        Si el esfuerzo no debe exceder 28ksi y el máximo cambio en longitud de BD no debe sobrepasar 0.001 veces 
+        la longitud de ABC, determine el diámetro mínimo que puede utilizarse para 
+        la varilla del elemento BD. 
+
+        &lt;img src=&quot;https://i.ibb.co/V32ZFnW/IMG4.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.343845003303577</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.687690006607153</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.736378459074939</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>343.845003303577</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>3.43845003303577e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro</text>
+		</name>
+		<questiontext>
+			<text> La varilla BD está hecha de acero (E = 60X10^6psi) y se utiliza para reforzar 
+        al elemento axialmente comprimido ABC. La máxima fuerza que puede desarrollarse en el elemento BD es de 0.02P.
+        Si el esfuerzo no debe exceder 12ksi y el máximo cambio en longitud de BD no debe sobrepasar 0.001 veces 
+        la longitud de ABC, determine el diámetro mínimo que puede utilizarse para 
+        la varilla del elemento BD. 
+
+        &lt;img src=&quot;https://i.ibb.co/V32ZFnW/IMG4.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.525231918323660</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>1.05046383664732</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>1.12483667628195</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>525.231918323660</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>5.25231918323660e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro</text>
+		</name>
+		<questiontext>
+			<text> La varilla BD está hecha de acero (E = 60X10^6psi) y se utiliza para reforzar 
+        al elemento axialmente comprimido ABC. La máxima fuerza que puede desarrollarse en el elemento BD es de 0.02P.
+        Si el esfuerzo no debe exceder 16ksi y el máximo cambio en longitud de BD no debe sobrepasar 0.001 veces 
+        la longitud de ABC, determine el diámetro mínimo que puede utilizarse para 
+        la varilla del elemento BD. 
+
+        &lt;img src=&quot;https://i.ibb.co/V32ZFnW/IMG4.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.454864184146723</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.909728368293446</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.974137136768622</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>454.864184146723</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>4.54864184146723e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro</text>
+		</name>
+		<questiontext>
+			<text> La varilla BD está hecha de acero (E = 60X10^6psi) y se utiliza para reforzar 
+        al elemento axialmente comprimido ABC. La máxima fuerza que puede desarrollarse en el elemento BD es de 0.02P.
+        Si el esfuerzo no debe exceder 20ksi y el máximo cambio en longitud de BD no debe sobrepasar 0.001 veces 
+        la longitud de ABC, determine el diámetro mínimo que puede utilizarse para 
+        la varilla del elemento BD. 
+
+        &lt;img src=&quot;https://i.ibb.co/V32ZFnW/IMG4.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.406842894512822</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.813685789025644</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.871294742888659</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>406.842894512822</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>4.06842894512822e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro</text>
+		</name>
+		<questiontext>
+			<text> La varilla BD está hecha de acero (E = 60X10^6psi) y se utiliza para reforzar 
+        al elemento axialmente comprimido ABC. La máxima fuerza que puede desarrollarse en el elemento BD es de 0.02P.
+        Si el esfuerzo no debe exceder 24ksi y el máximo cambio en longitud de BD no debe sobrepasar 0.001 veces 
+        la longitud de ABC, determine el diámetro mínimo que puede utilizarse para 
+        la varilla del elemento BD. 
+
+        &lt;img src=&quot;https://i.ibb.co/V32ZFnW/IMG4.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.371395051142279</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.742790102284558</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.795379641526305</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>371.395051142279</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>3.71395051142279e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Cálculo de diámetro</text>
+		</name>
+		<questiontext>
+			<text> La varilla BD está hecha de acero (E = 60X10^6psi) y se utiliza para reforzar 
+        al elemento axialmente comprimido ABC. La máxima fuerza que puede desarrollarse en el elemento BD es de 0.02P.
+        Si el esfuerzo no debe exceder 28ksi y el máximo cambio en longitud de BD no debe sobrepasar 0.001 veces 
+        la longitud de ABC, determine el diámetro mínimo que puede utilizarse para 
+        la varilla del elemento BD. 
+
+        &lt;img src=&quot;https://i.ibb.co/V32ZFnW/IMG4.png&quot; alt=&quot;&quot; width=&quot;449&quot; /&gt;   </text>
+		</questiontext>
+		<answer fraction="100">
+			<text>0.343845003303577</text>
+			<feedback>
+				<text>Correcto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.687690006607153</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>0.736378459074939</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>343.845003303577</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<answer fraction="0">
+			<text>3.43845003303577e-10</text>
+			<feedback>
+				<text>Incorrecto</text>
+			</feedback>
+		</answer>
+		<shuffleanswers>1</shuffleanswers>
+		<single>true</single>
+		<answernumbering>abc</answernumbering>
+	</question>
+</quiz>
