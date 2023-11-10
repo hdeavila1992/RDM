@@ -63,6 +63,15 @@ class objeto():
             print("Se agrega la propiedad "+str(propertie))
             print("Al diccionario del objeto 'RDM' con la key: "+name)
     def delta(self,name="Delt",P="P",L="L",A="A",E="E"):
+        """Function that allows me to calculate the displacement in millimeters, caused by a central axial force on an object.
+
+        Args:
+            name (str, optional): Name of the contained object who you wish to calculate displacement.. Defaults to "Delt".
+            P (str, optional): Axial force on the object surface.  . Defaults to "P".
+            L (str, optional): Longitude of the interest object. Defaults to "L".
+            A (str, optional): Area of the interest object . Defaults to "A".
+            E (str, optional): Young’s module of the interest object material. Defaults to "E".
+        """
         try:
             self.pro[name]=(self.pro[P]*self.pro[L])/(self.pro[A]*self.pro[E])
         except:
@@ -71,6 +80,15 @@ class objeto():
             print("Calculo de desplazamiento "+name+" exitoso, su valor es: "+str(self.pro[name]))
 
     def Esf(self,name="Esf",P="P",A="A",E="E",epsilon="epsilon"):
+        """Function that calculate de axial stress of the interest object 
+
+        Args:
+            name (str, optional): Name of the dictionary key who save the Stress value.. Defaults to "Esf".
+            P (str, optional): Axial force. Defaults to "P".
+            A (str, optional): Area of the interest object. Defaults to "A".
+            E (str, optional): Young’s module of the interest object material. Defaults to "E".
+            epsilon (str, optional): Axial strain of the interest object. Defaults to "epsilon".
+        """
         try:
             self.pro[name]=self.pro[P]/self.pro[A]
         except:
