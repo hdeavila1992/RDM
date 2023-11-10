@@ -97,6 +97,15 @@ class objeto():
             print("Trate de asignar variables como numeros reales o símbolos para calcular el esfuerzo")
 
     def epsilon(self,name="epsilon",Delt="Delt",L="L",Esf="Esf",E="E"):
+        """Calculate the strain of a element subject to an eccentric axial load.
+
+        Args:
+            name (str, optional): Name of the key that save the strain value. Defaults to "epsilon".
+            Delt (str, optional): Displacement of the object of interest.  . Defaults to "Delt".
+            L (str, optional): Longitude of the interest object. Defaults to "L".
+            Esf (str, optional): Axial stress of the object of interest. Defaults to "Esf".
+            E (str, optional): Young’s module of the interest object material. Defaults to "E".
+        """
         try:
             self.pro[name]=self.delta(Delt)/self.pro[L]
             quit()
