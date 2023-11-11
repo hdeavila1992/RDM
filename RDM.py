@@ -123,21 +123,6 @@ class objeto():
             print("Calculo automatico de esfuerzo a fallado, verificar manualmente")
         else:
             print("Calculo de esfuerzo automatico sin problemas")
-    def solve(self,Obj1,Obj2,Sf="P",Delt="Delt"):
-        R=sp.solve([self.pro[Sf],self.pro[Delt]],dict=True)
-        Obj1.pro["P"]=R[0][Obj1.pro["P"]]
-        Obj2.pro["P"]=R[0][Obj2.pro["P"]]
-    def solve1(self,Ecu,Incg):
-        """
-        # Función permie solución general de sistemas de ecuaciones.
-
-        1. Ecu: Lista de ecuaciones de interes dentro del objeto.
-        2. Incg: Lista de incognitas de interes. 
-        Nota: No esta completo, no utilizar
-        """
-        R=sp.solve(Ecu,dict=True)
-        for i in Incg:
-            self.pro[i]=R[0][self.pro[i]]
     def sum(self,Contorno_f="Contorno_f",Contorno_m="Contorno_m",print=False):
         Sf=np.array([0,0])
         for i in self.pro[Contorno_f]:
@@ -335,6 +320,14 @@ class objeto():
 
 #Función de calculo de área.
 def A(D):
+    """Function that calculates the transversal area of a cylindrical object.
+
+    Args:
+        D (_float_): Diameter of the circle. 
+
+    Returns:
+        _float_: area  
+    """
     return (np.pi*(D**2))/4
 #Función de diámetro de circulo
 def D(A):
