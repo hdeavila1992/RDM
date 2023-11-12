@@ -1,0 +1,2 @@
+from .RDM import objeto
+
