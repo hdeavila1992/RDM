@@ -44,17 +44,13 @@ class objeto():
         self.pro["Contorno_f"]=np.array([])
         self.pro["Contorno_m"]=np.array([])
     def asignar(self,dict):
-        """_Es una forma de asignar variables a una propiedad determinada del objeto, el valor de entrada
-        tiene que ser un diccionario de modo que para cada key del diccionario existe un valor asignado_
+        """_summary_
 
         Args:
-            dict (_type_): _Diccionario que contiene las variables a analizar y sus respectivos valores. 
-            ## Advertencia: asegurese de utilizar todas las varibales que sonsidere posible al principio del codigo
-            si se realiza durante la ehecuación esta función puede borrar las otras variables que se han asignado antes
-            con las función add()_
+            dict (_type_): _description_
         """
         self.pro=dict
-    def add(self,name,propertie,printed=False,unity=None):
+    def add(self,name,propertie,printed=False):
         if type(name)==type(np.array([0])):
             c=0
             for i in name:
@@ -103,15 +99,14 @@ class objeto():
 
      
     def delta(self,name="Delt",P="P",L="L",A="A",E="E"):
-        """Calcula el desplazamiento en milimetros generado por una fuerza normal en una objeto. 
-        Se asume una distribución uniforme del esfuerzo normal. Se asume material isotrópico homogenéo. 
+        """Function that allows me to calculate the displacement in millimeters, caused by a central axial force on an object.
 
         Args:
-            name (str, optional): _description_. Defaults to "Delt".
-            P (str, optional): _Valor de la fuerza en Newtons o Libras fuerzas_. Defaults to "P".
-            L (str, optional): _Valor de la longitud del objeto que soports la carga axial P_. Defaults to "L".
-            A (str, optional): _Área dle objeto que soporta la carga axial "P" con longitud "L"_. Defaults to "A".
-            E (str, optional): _Modulo de Rigidez del material_. Defaults to "E".
+            name (str, optional): Name of the contained object who you wish to calculate displacement. Defaults to "Delt".
+            P (str, optional):  Axial force on the object surface. Defaults to "P".
+            L (str, optional): Longitude of the interest object. Defaults to "L".
+            A (str, optional): Area of the interest object . Defaults to "A".
+            E (str, optional): Young’s module of the interest object material. Defaults to "E".
         """
         try:
             self.pro[name]=(self.pro[P]*self.pro[L])/(self.pro[A]*self.pro[E])
@@ -121,14 +116,14 @@ class objeto():
             print("Calculo de desplazamiento "+name+" exitoso, su valor es: "+str(self.pro[name]))
 
     def Esf(self,name="Esf",P="P",A="A",E="E",epsilon="epsilon"):
-        """_summary_
+        """Function that calculate de axial stress of the interest object 
 
         Args:
-            name (str, optional): _description_. Defaults to "Esf".
-            P (str, optional): _description_. Defaults to "P".
-            A (str, optional): _description_. Defaults to "A".
-            E (str, optional): _description_. Defaults to "E".
-            epsilon (str, optional): _description_. Defaults to "epsilon".
+            name (str, optional): Name of the dictionary key who save the Stress value.. Defaults to "Esf".
+            P (str, optional): Axial force. Defaults to "P".
+            A (str, optional): Area of the interest object. Defaults to "A".
+            E (str, optional): Young’s module of the interest object material. Defaults to "E".
+            epsilon (str, optional): Axial strain of the interest object. Defaults to "epsilon".
         """
         try:
             self.pro[name]=self.pro[P]/self.pro[A]
@@ -138,14 +133,14 @@ class objeto():
             print("Trate de asignar variables como numeros reales o símbolos para calcular el esfuerzo")
 
     def epsilon(self,name="epsilon",Delt="Delt",L="L",Esf="Esf",E="E"):
-        """_summary_
+        """Calculate the strain of a element subject to an eccentric axial load.
 
         Args:
-            name (str, optional): _description_. Defaults to "epsilon".
-            Delt (str, optional): _description_. Defaults to "Delt".
-            L (str, optional): _description_. Defaults to "L".
-            Esf (str, optional): _description_. Defaults to "Esf".
-            E (str, optional): _description_. Defaults to "E".
+            name (str, optional): Name of the key that save the strain value. Defaults to "epsilon".
+            Delt (str, optional): Displacement of the object of interest.  . Defaults to "Delt".
+            L (str, optional): Longitude of the interest object. Defaults to "L".
+            Esf (str, optional): Axial stress of the object of interest. Defaults to "Esf".
+            E (str, optional): Young’s module of the interest object material. Defaults to "E".
         """
         try:
             self.pro[name]=self.delta(Delt)/self.pro[L]
