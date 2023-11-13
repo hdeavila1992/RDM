@@ -43,13 +43,20 @@ class objeto():
         self.pro["Contorno_f"]=np.array([])
         self.pro["Contorno_m"]=np.array([])
     def asignar(self,dict):
-        """_summary_
+        """_Asing a dictionary of variables to the main object _
 
         Args:
-            dict (_type_): _description_
+            dict (_dict_): _Dictionary with al the variables used in the example._
         """
         self.pro=dict
     def add(self,name,propertie,printed=False):
+        """_Add new variable to the main object _
+
+        Args:
+            name (_string_): _Name of the new variable example: Fuerza1, Torq1, stress0 _
+            propertie (_float_): _Numerical value of the new variable_
+            printed (bool, optional): _Determine if you want to print (True) or not (False) the information about the main object_. Defaults to False.
+        """
         if type(name)==type(np.array([0])):
             c=0
             for i in name:
