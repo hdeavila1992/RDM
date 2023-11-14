@@ -44,20 +44,17 @@ class objeto():
         self.pro["Contorno_f"]=np.array([])
         self.pro["Contorno_m"]=np.array([])
     def asignar(self,dict):
-        """_summary_
+        """_Es una forma de asignar variables a una propiedad determinada del objeto, el valor de entrada
+        tiene que ser un diccionario de modo que para cada key del diccionario existe un valor asignado_
 
         Args:
-            dict (_type_): _description_
+            dict (_type_): _Diccionario que contiene las variables a analizar y sus respectivos valores. 
+            ## Advertencia: asegurese de utilizar todas las varibales que sonsidere posible al principio del codigo
+            si se realiza durante la ehecuación esta función puede borrar las otras variables que se han asignado antes
+            con las función add()_
         """
         self.pro=dict
-    def add(self,name,propertie):#,printed=False
-        """_summary_
-
-        Args:
-            name (_type_): _description_
-            propertie (_type_): _description_
-            printed (bool, optional): _description_. Defaults to False.
-        """
+    def add(self,name,propertie,printed=False,unity=None):
         if type(name)==type(np.array([0])):
             c=0
             for i in name:
@@ -106,14 +103,15 @@ class objeto():
 
      
     def delta(self,name="Delt",P="P",L="L",A="A",E="E"):
-        """Function that allows me to calculate the displacement in millimeters, caused by a central axial force on an object.
+        """Calcula el desplazamiento en milimetros generado por una fuerza normal en una objeto. 
+        Se asume una distribución uniforme del esfuerzo normal. Se asume material isotrópico homogenéo. 
 
         Args:
-            name (str, optional): Name of the contained object who you wish to calculate displacement. Defaults to "Delt".
-            P (str, optional):  Axial force on the object surface. Defaults to "P".
-            L (str, optional): Longitude of the interest object. Defaults to "L".
-            A (str, optional): Area of the interest object . Defaults to "A".
-            E (str, optional): Young’s module of the interest object material. Defaults to "E".
+            name (str, optional): _description_. Defaults to "Delt".
+            P (str, optional): _Valor de la fuerza en Newtons o Libras fuerzas_. Defaults to "P".
+            L (str, optional): _Valor de la longitud del objeto que soports la carga axial P_. Defaults to "L".
+            A (str, optional): _Área dle objeto que soporta la carga axial "P" con longitud "L"_. Defaults to "A".
+            E (str, optional): _Modulo de Rigidez del material_. Defaults to "E".
         """
         try:
             self.pro[name]=(self.pro[P]*self.pro[L])/(self.pro[A]*self.pro[E])
@@ -123,14 +121,14 @@ class objeto():
             print("Calculo de desplazamiento "+name+" exitoso, su valor es: "+str(self.pro[name]))
 
     def Esf(self,name="Esf",P="P",A="A",E="E",epsilon="epsilon"):
-        """Function that calculate de axial stress of the interest object 
+        """_summary_
 
         Args:
-            name (str, optional): Name of the dictionary key who save the Stress value.. Defaults to "Esf".
-            P (str, optional): Axial force. Defaults to "P".
-            A (str, optional): Area of the interest object. Defaults to "A".
-            E (str, optional): Young’s module of the interest object material. Defaults to "E".
-            epsilon (str, optional): Axial strain of the interest object. Defaults to "epsilon".
+            name (str, optional): _description_. Defaults to "Esf".
+            P (str, optional): _description_. Defaults to "P".
+            A (str, optional): _description_. Defaults to "A".
+            E (str, optional): _description_. Defaults to "E".
+            epsilon (str, optional): _description_. Defaults to "epsilon".
         """
         try:
             self.pro[name]=self.pro[P]/self.pro[A]
@@ -140,14 +138,14 @@ class objeto():
             print("Trate de asignar variables como numeros reales o símbolos para calcular el esfuerzo")
 
     def epsilon(self,name="epsilon",Delt="Delt",L="L",Esf="Esf",E="E"):
-        """Calculate the strain of a element subject to an eccentric axial load.
+        """_summary_
 
         Args:
-            name (str, optional): Name of the key that save the strain value. Defaults to "epsilon".
-            Delt (str, optional): Displacement of the object of interest.  . Defaults to "Delt".
-            L (str, optional): Longitude of the interest object. Defaults to "L".
-            Esf (str, optional): Axial stress of the object of interest. Defaults to "Esf".
-            E (str, optional): Young’s module of the interest object material. Defaults to "E".
+            name (str, optional): _description_. Defaults to "epsilon".
+            Delt (str, optional): _description_. Defaults to "Delt".
+            L (str, optional): _description_. Defaults to "L".
+            Esf (str, optional): _description_. Defaults to "Esf".
+            E (str, optional): _description_. Defaults to "E".
         """
         try:
             self.pro[name]=self.delta(Delt)/self.pro[L]
@@ -249,14 +247,6 @@ class objeto():
             Lambda=Lambda.transpose()
             return Lambda
     def cross_product(self,distance,force,Resultingmomentum="MR",unity="momentum"):
-        """_summary_
-
-        Args:
-            distance (_type_): _description_
-            force (_type_): _description_
-            Resultingmomentum (str, optional): _description_. Defaults to "MR".
-            unity (str, optional): _description_. Defaults to "momentum".
-        """
         if len(distance)==len(force):
             self.pro[Resultingmomentum]=np.array([])
             print("Se realizara el producto cruz")
@@ -375,15 +365,6 @@ class objeto():
 
 
     def Area(self,tipo,D="D",AREA="A",t="t",anch="Anch"):
-        """_summary_
-
-        Args:
-            tipo (_type_): _description_
-            D (str, optional): _description_. Defaults to "D".
-            AREA (str, optional): _description_. Defaults to "A".
-            t (str, optional): _description_. Defaults to "t".
-            anch (str, optional): _description_. Defaults to "Anch".
-        """
         if tipo=="c":
             self.pro[AREA]=A(self.pro[D])
             print("Área "+AREA+" asignada como: "+str(self.pro[AREA])+" en "+D)
@@ -393,8 +374,6 @@ class objeto():
             else:
                 print("Calcule el Área manualmente")
     def Info(self):
-        """_summary_
-        """
         lista=self.pro.keys()
         c=0
         print("------Informa de Propiedades-----------")
@@ -403,24 +382,26 @@ class objeto():
             c+=1
         print("------  Fin   -------------")
     def distance(self,A,B,L="L"):
-        """_This function allows to calculate distances from a given point in the object to another point._
-
-        Args:
-            A (_type_): _description_
-            B (_type_): _description_
-            L (str, optional): _description_. Defaults to "L".
+        """
+        ## Función distancia.
+        Esta función permite calcular la distancia desde un puntos existente en el objeto hasta otro:
+        A: String que contiene el nombre del primer Vector de tipo numpy array, 
+            contiene las coordenadas cartecianas del primer punto.
+        B: String que contiene el nombre del segundo Vector de tipo numpy array, contiene las 
+            coordenadas cartecianas del segundo punto.
+        L: Nombre en string de la variable donde deseas almacenar la longitud del vector.
         """
         V=self.pro[B]-self.pro[A]
         LV=np.linalg.norm(V)
         self.add(L,LV)
         return
     def deformacion(self,L="L",Lp="Lp",epsilon="epsilon"):
-        """_Calculates the unitarian deformation_
-
-        Args:
-            L (str, optional): _description_. Defaults to "L".
-            Lp (str, optional): _description_. Defaults to "Lp".
-            epsilon (str, optional): _description_. Defaults to "epsilon".
+        """"
+        ## Calculo de deformación unitaria.
+        Determina la deformación de un elemento introduciendo como variable de entrada.
+        L: string-->Nombre de la longitud inicial. expl{"L","L0","L1",...}
+        Lp: string--->Nombre de la longitud final. expl{"Lf","Lp","L2",...}
+        epsilon: string---> es el lugar por defecto, donde se guarda la variable calculada.
         """
         try:
             e=(self.pro[Lp]-self.pro[L])/self.pro[L]
@@ -435,24 +416,27 @@ class objeto():
         self.add(epsilon,e)
         return
     def J(self,Jindex="J",d="d"):
-        """_Allow to calculate the polar inertia of a circular geometry _
-
-        Args:
-            Jindex (str, optional): _description_. Defaults to "J".
-            d (str, optional): _description_. Defaults to "d".
+        """
+        ##Esta función permite cálcular la inercia polar de un elemento circular masiso
+        Como parametro de entrada tiene el diametro de la sección circular, su valor por defecto
+        es "d" pero puede ser modificado:
+        Entradas:
+        * Jindex="J" : Variable que almacena la inercia polar.
+        * d="d": Diametro esperado del eje.
         """
         J=0.5*np.pi*((self.pro[d]*0.5)**4)
         self.add(Jindex,J)
         return
     def tau(self,tau="tau",T="T",d="d",c="c",J="J"):
-        """_Calculates the shear stress of a cylindrical geometry_
+        """
+        ## El codigo permite calcular el esfuerzo cortante Tau conociendo el diametro de la figura,
+        el torque y el lugar donde se quiere medir.
 
-        Args:
-            tau (str, optional): _description_. Defaults to "tau".
-            T (str, optional): _description_. Defaults to "T".
-            d (str, optional): _description_. Defaults to "d".
-            c (str, optional): _description_. Defaults to "c".
-            J (str, optional): _description_. Defaults to "J".
+        * tau: Variable que almacena el esfuerzo cortante, su nombre por defecto es "tau"
+        * T: Torque de entrada del eje, su nombre por defecto es "T"
+        * d: Dinametro del eje, su nombre por defecto es "d"
+        * c: Radio de interes para el analisis de esfuerzo cortante.
+        * J: Momento polar de inercia de un circulo, su valor por defecto es "J"
         """
         Tor=self.pro[T]
         c=self.pro[c]
@@ -463,35 +447,13 @@ class objeto():
 
 #Función de calculo de área.
 def A(D):
-    """_summary_
-
-    Args:
-        D (_type_): _description_
-
-    Returns:
-        _type_: _description_
-    """
     return (np.pi*(D**2))/4
 #Función de diámetro de circulo
 def D(A):
-    """_summary_
-
-    Args:
-        A (_type_): _description_
-
-    Returns:
-        _type_: _description_
-    """
     return sp.sqrt(4*A/np.pi)
 
 #Constructor de resultados:
 def Respuesta(Enunciados,Respuestas):
-    """_summary_
-
-    Args:
-        Enunciados (_type_): _description_
-        Respuestas (_type_): _description_
-    """
     c=0
     print("*********************")
     for i in Enunciados:
