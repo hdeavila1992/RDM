@@ -50,7 +50,7 @@ class objeto():
             dict (_type_): _description_
         """
         self.pro=dict
-    def add(self,name,propertie,printed=False):
+    def add(self,name,propertie):#,printed=False
         """_summary_
 
         Args:
