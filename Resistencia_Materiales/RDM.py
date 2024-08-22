@@ -46,7 +46,7 @@ class objeto():
         self.pro["Contorno_m"]=np.array([])
     def asignar(self,dict):
         """_Es una forma de asignar variables a una propiedad determinada del objeto, el valor de entrada
-        tiene que ser un diccionario de modo que para cada key del diccionario existe un valor asignado_
+        tiene que ser un diccionario de modo que para cada key del diccionario existe un valor asignado._
 
         Args:
             dict (_type_): _Diccionario que contiene las variables a analizar y sus respectivos valores. 
