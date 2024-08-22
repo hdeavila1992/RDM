@@ -11,6 +11,7 @@ Tiene las siguientes funciones:
 
 """
 
+
 import numpy as np
 import pandas as pd
 import sympy as sp
@@ -54,14 +55,22 @@ class objeto():
             con las función add()_
         """
         self.pro=dict
-    def add(self,name,propertie,printed=False,unity=None):
+    def add(self,name,propertie_value,printed=False,unity=None):
+        """Agrega una nueva propiedad en caso de que sea un lista
+
+        Args:
+            name (_type_): _Vector con los nombres de las nuevas propiedades_
+            propertie_value (_type_): _Valor numerico de la propiedad, puede ser un numero real o un simbolo_
+            printed (bool, optional): _Si deseas imprimir la informacón contenida dentro del objeto principal_. Defaults to False.
+            unity (_type_, optional): _Unidad de trabajo abordada_. Defaults to None.
+        """
         if type(name)==type(np.array([0])):
             c=0
             for i in name:
-                self.pro[i]=propertie[c]
+                self.pro[i]=propertie_value[c]
                 c+=1
         else:
-            self.pro[name]=[propertie,unity]
+            self.pro[name]=[propertie_value,unity]
         if (printed==True):
             print("++++++++++++++++++++++")
             print("------------!Información!-------------")
@@ -124,11 +133,11 @@ class objeto():
         """_summary_
 
         Args:
-            name (str, optional): _description_. Defaults to "Esf".
-            P (str, optional): _description_. Defaults to "P".
-            A (str, optional): _description_. Defaults to "A".
-            E (str, optional): _description_. Defaults to "E".
-            epsilon (str, optional): _description_. Defaults to "epsilon".
+            name (str, optional): _Nombre de la carga_. Defaults to "Esf".
+            P (str, optional): _Valor de la carga normal "P" aplicada_. Defaults to "P".
+            A (str, optional): _Área del objeto que recibe la carga normal_. Defaults to "A".
+            E (str, optional): _Modulo de Young's del material_. Defaults to "E".
+            epsilon (str, optional): _Deformación unitaria del objeto en dirección de la carga P_. Defaults to "epsilon".
         """
         try:
             self.pro[name]=self.pro[P]/self.pro[A]
@@ -141,11 +150,11 @@ class objeto():
         """_summary_
 
         Args:
-            name (str, optional): _description_. Defaults to "epsilon".
-            Delt (str, optional): _description_. Defaults to "Delt".
-            L (str, optional): _description_. Defaults to "L".
-            Esf (str, optional): _description_. Defaults to "Esf".
-            E (str, optional): _description_. Defaults to "E".
+            name (str, optional): _Nombre asigando a la deformación unitaria del objeto_. Defaults to "epsilon".
+            Delt (str, optional): _Deformación unitaria del objeto_. Defaults to "Delt".
+            L (str, optional): _Longitud del objeto_. Defaults to "L".
+            Esf (str, optional): _Esfuerzo experimentado por el objeto_. Defaults to "Esf".
+            E (str, optional): _Modulo de Young's del material_. Defaults to "E".
         """
         try:
             self.pro[name]=self.delta(Delt)/self.pro[L]
@@ -168,10 +177,10 @@ class objeto():
         """_summary_
 
         Args:
-            Obj1 (_type_): _description_
-            Obj2 (_type_): _description_
-            Sf (str, optional): _description_. Defaults to "P".
-            Delt (str, optional): _description_. Defaults to "Delt".
+            Obj1 (_type_): _Objeto 1 a ser solucionado, puede ser una viga, barra o pasador_
+            Obj2 (_type_): _Objeto 1 a ser solucionado, puede ser una viga, barra o pasador_
+            Sf (str, optional): _Sistema de fuerzas_. Defaults to "P".
+            Delt (str, optional): _Sistema de deformaciones_. Defaults to "Delt".
         """
         R=sp.solve([self.pro[Sf],self.pro[Delt]],dict=True)
         Obj1.pro["P"]=R[0][Obj1.pro["P"]]
@@ -180,8 +189,8 @@ class objeto():
         """_summary_
 
         Args:
-            Ecu (_type_): _description_
-            Incg (_type_): _description_
+            Ecu (_type_): _Ecuación dericada de la estatica y la resistencia de materiales_
+            Incg (_type_): _Listado de incognitas_
         """
         R=sp.solve(Ecu,dict=True)
         for i in Incg:
@@ -190,9 +199,9 @@ class objeto():
         """_summary_
 
         Args:
-            Contorno_f (str, optional): _description_. Defaults to "Contorno_f".
-            Contorno_m (str, optional): _description_. Defaults to "Contorno_m".
-            printed (bool, optional): _description_. Defaults to False.
+            Contorno_f (str, optional): _Fuerzas externas al objeto_. Defaults to "Contorno_f".
+            Contorno_m (str, optional): _Momentos externos al objeto_. Defaults to "Contorno_m".
+            printed (bool, optional): _Si desea imprimir los datos en el objeto_. Defaults to False.
         """
         init=True
         for i in self.pro[Contorno_f][0]:
@@ -223,8 +232,8 @@ class objeto():
         """_summary_
 
         Args:
-            V (_type_): _description_
-            VM (_type_): _description_
+            V (_type_): _Matriz de Vectores_
+            VM (_type_): _Magnitud de vectores_
 
         Returns:
             _type_: _description_
@@ -247,6 +256,14 @@ class objeto():
             Lambda=Lambda.transpose()
             return Lambda
     def cross_product(self,distance,force,Resultingmomentum="MR",unity="momentum"):
+        """_Producto cruz entre vectores_
+
+        Args:
+            distance (_type_): _Vector de distancia_
+            force (_type_): _Vector de fuerza_
+            Resultingmomentum (str, optional): _Momento resultante_. Defaults to "MR".
+            unity (str, optional): _Unidad_. Defaults to "momentum".
+        """
         if len(distance)==len(force):
             self.pro[Resultingmomentum]=np.array([])
             print("Se realizara el producto cruz")
@@ -278,14 +295,14 @@ class objeto():
             Contorno (str, optional): _description_. Defaults to "Contorno_f".
         """
         def vector_dist(Nnodo,M):
-            """_summary_
+            """_Vector de distancias entre un nodo y sus vecinos, incluyendolo a el mismo_
 
             Args:
-                Nnodo (_type_): _description_
-                M (_type_): _description_
+                Nnodo (_type_): _Nodo especifico de estudio_
+                M (_type_): _Matriz de nodos_
 
             Returns:
-                _type_: _description_
+                _type_: _Matriz de distancias_
             """
             index=np.where(M[:,0]==Nnodo)
             try:
@@ -298,13 +315,13 @@ class objeto():
                 exit()
             return B
         def vector_mag(V):
-            """_summary_
+            """_Calcula la magnitud de los vectores_
 
             Args:
-                V (_type_): _description_
+                V (_type_): _Matriz de vectores_
 
             Returns:
-                _type_: _description_
+                _type_: _Magnitud de los vectores_
             """
             VC=V**2
             try:
@@ -341,7 +358,7 @@ class objeto():
         self.add("Sm",Det)
 
     def build(self):
-        """_summary_
+        """_Arma el sistema de fuerzas_
         """
         [Sf,Sm]=self.pro["S"]
         R=sp.solve(np.append(Sf,np.array([Sm[0]+Sm[1]+self.pro["Sm"]]) ),dict=True)   
@@ -365,6 +382,15 @@ class objeto():
 
 
     def Area(self,tipo,D="D",AREA="A",t="t",anch="Anch"):
+        """_Cálcula el área rectangular_
+
+        Args:
+            tipo (_type_): _Tipo de área{r:rectangular;c:circular}_
+            D (str, optional): _Díametro del circulo_. Defaults to "D".
+            AREA (str, optional): _Área cálculada_. Defaults to "A".
+            t (str, optional): _espesor de rectangulo(se puede interpretar como ángulo)_. Defaults to "t".
+            anch (str, optional): _Ancho de rectangulo_. Defaults to "Anch".
+        """
         if tipo=="c":
             self.pro[AREA]=A(self.pro[D])
             print("Área "+AREA+" asignada como: "+str(self.pro[AREA])+" en "+D)
@@ -447,13 +473,35 @@ class objeto():
 
 #Función de calculo de área.
 def A(D):
+    """Cálculo de área circular.
+
+    Args:
+        D (_float_): _Díametro de circulo_
+
+    Returns:
+        _type_: _float_
+    """
     return (np.pi*(D**2))/4
 #Función de diámetro de circulo
 def D(A):
+    """_Cálcula díametro, dado un área._
+
+    Args:
+        A (_float_): _Área del elemetro circular_
+
+    Returns:
+        _type_: _float_
+    """
     return sp.sqrt(4*A/np.pi)
 
 #Constructor de resultados:
 def Respuesta(Enunciados,Respuestas):
+    """_Sirve para generar enunciados de problemas_
+
+    Args:
+        Enunciados (_type_): _Enunciado del problema_
+        Respuestas (_type_): _Respuesta del problema_
+    """
     c=0
     print("*********************")
     for i in Enunciados:
