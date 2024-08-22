@@ -112,15 +112,14 @@ class objeto():
 
      
     def delta(self,name="Delt",P="P",L="L",A="A",E="E"):
-        """Calcula el desplazamiento en milimetros generado por una fuerza normal en una objeto. 
-        Se asume una distribución uniforme del esfuerzo normal. Se asume material isotrópico homogenéo. 
+        """Function that allows me to calculate the displacement in millimeters, caused by a central axial force on an object.
 
         Args:
-            name (str, optional): _description_. Defaults to "Delt".
-            P (str, optional): _Valor de la fuerza en Newtons o Libras fuerzas_. Defaults to "P".
-            L (str, optional): _Valor de la longitud del objeto que soports la carga axial P_. Defaults to "L".
-            A (str, optional): _Área dle objeto que soporta la carga axial "P" con longitud "L"_. Defaults to "A".
-            E (str, optional): _Modulo de Rigidez del material_. Defaults to "E".
+            name (str, optional): Name of the contained object who you wish to calculate displacement. Defaults to "Delt".
+            P (str, optional):  Axial force on the object surface. Defaults to "P".
+            L (str, optional): Longitude of the interest object. Defaults to "L".
+            A (str, optional): Area of the interest object . Defaults to "A".
+            E (str, optional): Young’s module of the interest object material. Defaults to "E".
         """
         try:
             self.pro[name]=(self.pro[P]*self.pro[L])/(self.pro[A]*self.pro[E])
@@ -400,6 +399,8 @@ class objeto():
             else:
                 print("Calcule el Área manualmente")
     def Info(self):
+        """_summary_
+        """
         lista=self.pro.keys()
         c=0
         print("------Informa de Propiedades-----------")
@@ -408,26 +409,24 @@ class objeto():
             c+=1
         print("------  Fin   -------------")
     def distance(self,A,B,L="L"):
-        """
-        ## Función distancia.
-        Esta función permite calcular la distancia desde un puntos existente en el objeto hasta otro:
-        A: String que contiene el nombre del primer Vector de tipo numpy array, 
-            contiene las coordenadas cartecianas del primer punto.
-        B: String que contiene el nombre del segundo Vector de tipo numpy array, contiene las 
-            coordenadas cartecianas del segundo punto.
-        L: Nombre en string de la variable donde deseas almacenar la longitud del vector.
+        """_This function allows to calculate distances from a given point in the object to another point._
+
+        Args:
+            A (_type_): _description_
+            B (_type_): _description_
+            L (str, optional): _description_. Defaults to "L".
         """
         V=self.pro[B]-self.pro[A]
         LV=np.linalg.norm(V)
         self.add(L,LV)
         return
     def deformacion(self,L="L",Lp="Lp",epsilon="epsilon"):
-        """"
-        ## Calculo de deformación unitaria.
-        Determina la deformación de un elemento introduciendo como variable de entrada.
-        L: string-->Nombre de la longitud inicial. expl{"L","L0","L1",...}
-        Lp: string--->Nombre de la longitud final. expl{"Lf","Lp","L2",...}
-        epsilon: string---> es el lugar por defecto, donde se guarda la variable calculada.
+        """_Calculates the unitarian deformation_
+
+        Args:
+            L (str, optional): _description_. Defaults to "L".
+            Lp (str, optional): _description_. Defaults to "Lp".
+            epsilon (str, optional): _description_. Defaults to "epsilon".
         """
         try:
             e=(self.pro[Lp]-self.pro[L])/self.pro[L]
@@ -442,27 +441,24 @@ class objeto():
         self.add(epsilon,e)
         return
     def J(self,Jindex="J",d="d"):
-        """
-        ##Esta función permite cálcular la inercia polar de un elemento circular masiso
-        Como parametro de entrada tiene el diametro de la sección circular, su valor por defecto
-        es "d" pero puede ser modificado:
-        Entradas:
-        * Jindex="J" : Variable que almacena la inercia polar.
-        * d="d": Diametro esperado del eje.
+        """_Allow to calculate the polar inertia of a circular geometry _
+
+        Args:
+            Jindex (str, optional): _description_. Defaults to "J".
+            d (str, optional): _description_. Defaults to "d".
         """
         J=0.5*np.pi*((self.pro[d]*0.5)**4)
         self.add(Jindex,J)
         return
     def tau(self,tau="tau",T="T",d="d",c="c",J="J"):
-        """
-        ## El codigo permite calcular el esfuerzo cortante Tau conociendo el diametro de la figura,
-        el torque y el lugar donde se quiere medir.
+        """_Calculates the shear stress of a cylindrical geometry_
 
-        * tau: Variable que almacena el esfuerzo cortante, su nombre por defecto es "tau"
-        * T: Torque de entrada del eje, su nombre por defecto es "T"
-        * d: Dinametro del eje, su nombre por defecto es "d"
-        * c: Radio de interes para el analisis de esfuerzo cortante.
-        * J: Momento polar de inercia de un circulo, su valor por defecto es "J"
+        Args:
+            tau (str, optional): _description_. Defaults to "tau".
+            T (str, optional): _description_. Defaults to "T".
+            d (str, optional): _description_. Defaults to "d".
+            c (str, optional): _description_. Defaults to "c".
+            J (str, optional): _description_. Defaults to "J".
         """
         Tor=self.pro[T]
         c=self.pro[c]
